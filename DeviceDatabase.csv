@@ -1,0 +1,1092 @@
+PROTOCOL,REGEX_PATTERN,Label,VENDOR,DEVICE_TYPE,DEVICE_MODEL,OS,
+rtsp,'H264DVR','IoT','H.264','DVR','Unknown','Unknown',
+rtsp,'HiIpcam/V100R003 VodServer','IoT','Hisilicon HiIpcam','DVR','V100R003','Unknown',
+rtsp,'Win32','IoT','Microsoft','Windows','Win32','Windows',
+rtsp,'Server: Wowza','Desktop','Wowza','media server software','Unknown','Unknown',
+telnet,'(DAM-2160i)','IoT','GOSUNCN','Intelligent IoT Data Collector',match.group(1),'embedded',
+http,'(DAM-2160i)','IoT','GOSUNCN','Intelligent IoT Data Collector',match.group(1),'embedded',
+http,'Gosuncn','IoT','GOSUNCN','smart IoT data collector','Unknown','embedded',
+ftp,'AXIS (225FD9)','IoT','AXIS','IP Camera',match.group(1),'embedded',
+ftp,'AXIS (P3707-PE)','IoT','AXIS','IP Camera',match.group(1),'embedded',
+ftp,'AXIS (M3044-V)','IoT','AXIS','IP Camera',match.group(1),'embedded',
+ftp,'AXIS (211M)','IoT','AXIS','IP Camera',match.group(1),'embedded',
+http,'Hortonworks SmartSense Tool','IoT','SmartSense','ICS','Unknown','Unknown',
+http,'WowzaStreamingEngine','Desktop','Wowza','media server software','Unknown','Unknown',
+http,'LANCOM (\d{3}\d?[EV]?[AF]?)','IoT','LANCOM','VDSL Modem Router',match.group(1),'embedded',
+http,'LANCOM (R\d{3}VA\w?)','IoT','LANCOM','VoIP',match.group(1),'embedded',
+http,'FWD305','IoT','FAST','Router','FWD305','embedded',
+http,'ADSL2+ Router FWD105','IoT','FAST','ADSL Modem Router','FWD105','embedded',
+http,'(M[DW]\d{3}[RN])','IoT','Mercury','wireless router',match.group(1),'embedded',
+telnet,'AC12 login','IoT','Mercury','router','AC12','embedded',
+telnet,'APN MOON266','IoT','OLYM','VPN','Moon266','embedded',
+telnet,'APN (STAR\d{2})','IoT','OLYM','VPN',match.group(1),'embedded',
+http,'Digest realm="Realm3"','Desktop','Realm3','web application','Unknown','embedded',
+telnet,'(NB-1\d{3}) login','IoT','avvero','ICS Indutrial Router',match.group(1),'embedded',
+telnet,'(NB-2\d{3}) login','IoT','avvero','ICS Indutrial Vehicle Router',match.group(1),'embedded',
+telnet,'(NB-3\d{3}) login','IoT','avvero','ICS Indutrial Train Router',match.group(1),'embedded',
+telnet,'Welcome to the Tiesse Imola router','IoT','Tiesse','Router','Imola series','embedded',
+telent,'MOSA4604 IP PBX','IoT','MOSA','Gateway VoIP','MOSA4604','embedded',
+http,'Digest realm="MM01-005H"','IoT','MMC Technology','Router','MM01-005H','embedded',
+http,'Basic realm="MSV-NVR32Pro"','IoT','VIP vision','NVR','MSV-NVR32Pro','embedded',
+http,'Digistar (XIP-\d{3})','IoT','Digistar','VoIP',match.group(1),'embedded',
+http,'Digistar AG-30 Plus','IoT','Digistar','VoIP','Unknown','embedded',
+http,'GOPON-1000R-ONU','IoT','Syrotech','GPON Router','GOPON-1000R-ONU','embedded',
+ftp,'(XIP\d{3})','IoT','Digistar','VoIP',match.group(1),'embedded',
+http,'(P-\d{2}\d?\d?0H?W?V?-[TF]1)','IoT','ZyXEL','Router',match.group(1),'embedded',
+telnet,'iPocket232','IoT','Precidia','RS232 to Ethernet Converter','iPocket232','embedded',
+http,'DCFW-1800','IoT','DCN','Firewall','DCFW-1800','embedded',
+http,'Basic realm="TP-LINK Router (R\d{3}T?)','IoT','TP-LINK','Router',match.group(1),'embedded',
+http,'Basic realm="TP-LINK Router R4199G','IoT','TP-LINK','Router','R4199G','embedded',
+http,'(THS12[08]EP)','IoT','tg-net','POE',match.group(1),'embedded',
+ftp,'220 SPECTRE-3G FTP server','IoT','Spectre','ICS','Unknown','embedded',
+http,'Basic realm="SPECTRE-3G"','IoT','Spectre','ICS','Unknown','embedded',
+telnet,'SPECTRE-3G login','IoT','Spectre','ICS','Unknown','embedded',
+http,'Basic realm="(ZNID\d\d?xxx?A?\d?-Router)"','IoT','Zhone','Router',match.group(1),'embedded',
+http,'Basic realm="(ETHX32xx-Router)"','IoT','Zhone','Router',match.group(1),'embedded',
+http,'Basic realm="ENH200EXT"','IoT','Engenius','Outdoor Wireless CPE','ENH200EXT','embedded',
+ssl,'EC230-G1','IoT','TP-Link','Router','EC230-G1','embedded',
+http,'WL500g','IoT','ASUS','Router','WL500g','embedded',
+http,'UMG512-4200-4760','IoT','Janitza','ICS','UMG512-4200-4760','embedded',
+http,'(iB-WR[AX]300N)','IoT','iBall-Baton','Router',match.group(1),'embedded',
+http,'(iB-FONG11G)','IoT','iBall-Baton','GPON Router',match.group(1),'embedded',
+http,'Basic realm="WRG240E"','IoT','Intelbras','Router','WRG240E','embedded',
+http,'FK-ONT-G420W','IoT','Furukawa Electric','GPON Modem','FK-ONT-G420W','embedded',
+telnet,'EZCH31 login','IoT','EZOPower','Wireless SD Card Reader','EZCH31','embedded',
+telnet,'LG-D600 login','IoT','Ledgo','LED Fresnel with WiFi','LG-D600','embedded',
+telnet,'IPC365 login','IoT','IPC365','IP Camera','Unknown','embedded',
+http,'Basic realm="\[RTX830\]"','IoT','Yamaha','VPN Router','RTX830','embedded',
+http,'Basic realm="\[NVR510\]"','IoT','Yamaha','VoIP Router','NVR510','embedded',
+telnet,'routerR20 login','IoT','NETGEAR','Router','RBR20','embedded',
+http,'Basic realm="RouterR20"','IoT','NETGEAR','Router','RBR20','embedded',
+http,'Basic realm="NETGEAR VEGN2610"','IoT','NETGEAR','Router','VEGN2610','embedded',
+http,'Basic realm="NETGEAR XR500"','IoT','NETGEAR','Router','XR500','embedded',
+http,'Basic realm="NETGEAR RAX40"','IoT','NETGEAR','Router','RAX40','embedded',
+telnet,'DPF-1500E','IoT','D-Link','Router','DPF-1500E','embedded',
+http,'H264DVR','IoT','Unknown','DVR','Unknown','embedded',
+http,'Basic realm="Asoni_CAM6742"','IoT','Asoni','IP Camera','CAM6742','embedded',
+http,'Basic realm="CAM6082QIR"','IoT','Asoni','IP Camera','CAM6082QIR','embedded',
+http,'MP202','IoT','audiocodes','Audio Gateway','MP202','embedded',
+http,'(JNR\d{4})','IoT','NETGEAR',router,match.group(1),'Unknown'
+http,'Oracle-Application-Server-10g','Desktop','Oracle','Web Service','Unknown','Unknown',
+telnet,'dm7020hd?','IoT','DreamBox','TV Satelite receiver','dm7020hd','embedded',
+http,'OpenDreambox.*dm800','IoT','DreamBox','TV Satelite receiver','dm800','embedded',
+http,'(DSL\d{4}EN)','IoT','AzTech','ADSL Modem Router',match.group(1),'embedded',
+telnet,'(sbs-ipcam login)','IoT','SBS','Action Camera','SBS Action Camera','embedded',
+http,'(USG\d{2}\d?\d?)','IoT','ZyXE','Firwall',match.group(1),'embedded',
+telnet,'(USG\d{2}\d?\d?)','IoT','ZyXE','Firwall',match.group(1),'embedded',
+telnet,'AirMax5N','IoT','AirLive','Wireless Outdoor CPE','AirMax5N','embedded',
+http,'3G Wireless Gateway B68L','IoT','HUAWEI','3G Wireless Gateway','B68L','embedded',
+http,'Apache','Desktop','Unknown','Unknown','Unknown','Unknown',
+telnet,'(DSL-\w\w?\d{2})','IoT','ASUS','Router',match.group(1),'embedded',
+http,'(DSL-\w\w?\d{2})','IoT','ASUS','Router',match.group(1),'embedded',
+http,'(WV-S\w\d{3}\w?) Network Camera','IoT','Panasonic','IP Camera',match.group(1),'embedded',
+http,'(BL-\w{2}\d{3}) Network Camera','IoT','Panasonic','IP Camera',match.group(1),'embedded',
+http,'(BB-S\w\d{3}) Network Camera','IoT','Panasonic','IP Camera',match.group(1),'embedded',
+http,'CH7486E Wireless Voice Gateway','IoT','CBN','Wireless Voice Gateway','CH7486E','embedded',
+http,'QVM570','IoT','Qno','VPN Router','QVM570','embedded',
+http,'SMA Sunny Webbox','IoT','solarflexion','Wireless Voice Gateway','SMA Sunny Webbox','embedded',
+http,'CVR100W','IoT','Panasonic','IP Camera','CVR100W','embedded',
+http,'TEW-733GR','IoT','Trendnet','Router','TEW-733GR','embedded',
+http,'ENDEAVOR264L','IoT','EverFocus','DVR','ENDEAVOR264L','embedded',
+http,'PHICOMM-PSG1218','IoT','PHICOMM','Router','PSG1218','embedded',
+http,'LINKSYS1900A','IoT','LINKSYS','Router','AC1900A','embedded',
+http,'BEFSX41','IoT','LINKSYS','Router','BEFSX41','embedded',
+http,'DNR-202L','IoT','D-link','DVR','DNR-202L','embedded',
+http,'DI-LB604','IoT','D-link','Load Balancing Router','DI-LB604','embedded',
+http,'Basic realm="NETGEAR (VVG\d{4})"','IoT','NETGEAR','Router',match.group(1),'embedded',
+http,'CGA2121','IoT','Technicolor','Gateway','CGA2121','embedded',
+ssl,'Technicolor Gateway - Home','IoT','Technicolor','Gateway','Unknown','embedded',
+http,'Basic realm="TP-LINK Wireless N 3G/4G Router MR3420"','IoT','TP-LINK','3G Router','MR3420','embedded',
+http,'Basic realm="TP-LINK Wireless Lite N 3G/4G Router MR3220"','IoT','TP-LINK','3G Router','MR3220','embedded',
+ssl,'TL-MR3420','IoT','TP-LINK','3G Router','MR3420','embedded',
+ssl,'(R[RN]\d{3}\dX?)','IoT','Netgear','NAS',match.group(1),'embedded',
+http,'(R[RN]\d{3}\dX?)','IoT','Netgear','NAS',match.group(1),'embedded',
+telnet,'(R[RN]\d{3}\dX?)','IoT','Netgear','NAS',match.group(1),'embedded',
+ssl,'WIN-','Desktop','Microsoft','Windows','Windows','Windows',
+ssl,'DESKTOP-','Desktop','Microsoft','Windows','Windows','Windows',
+http,'SBG6580','IoT','ARRIS','Cable Modem Router','SBG6580','embedded',
+http,'Basic realm="NETGEAR (D[CG]\d{3}\w?)','IoT','NETGEAR','ADSL Modem Router',match.group(1),'embedded',
+http,'AV-TECH AV787 Video Web Server','IoT','AvTech','IP Camera','AV787','embedded',
+http,'Basic realm="NETGEAR (R\d{4}\w?)"','IoT','NETGEAR','3G Router',match.group(1),'embedded',
+http,'Basic realm="MI-R3G"','IoT','Xiaomi','3G Router','MI-R3G','embedded',
+ftp,'Welcome to MI-R3G FTP service','IoT','Xiaomi','3G Router','MI-R3G','embedded',
+http,'Digest realm="Westell Secure"','IoT','Westell','Router','Unknown','embedded',
+http,'Digest realm="ActiontecBHR"','IoT','actiontec','Router','Unknown','embedded',
+http,'Basic realm="Linksys (E\d{4})"','IoT','Linksys','Router',match.group(1),'embedded',
+http,'Basic realm="E900"','IoT','Linksys','Router','E900','embedded',
+http,'ZyXEL Keenetic','IoT','Keenetic','Router','Unknown','embedded',
+http,'Basic realm="(E\d{4})"','IoT','Linksys','Router',match.group(1),'embedded',
+http,'Basic realm="Linksys (WAG\d{2}\d?\w)','IoT','Linksys','Router',match.group(1),'embedded',
+http,'Basic realm="Thomson Gateway"','IoT','Thomson','Gateway','Unknown','embedded',
+telnet,'ZXV10 H108L','IoT','ZTE','Router','ZXV10 H108L','embedded',
+http,'(H\d{3}[AL]).*ZTE','IoT','ZTE','Router',match.group(1),'embedded',
+http,'ZXV10','IoT','ZTE','Router','ZXV10','embedded',
+http,'ZTE.*E5501','IoT','ZTE','Router','E5501','embedded',
+http,'RX3041','IoT','ASUS','Router','RX3041','embedded',
+telnet,'FRITZ!Box','IoT','AVM','Router','FritzOS','embedded',
+telnet,'I-040GW','IoT','Alcatel-Lucent','Router','I-040GW','embedded',
+telnet,'RV6699','IoT','SerComm','Router','RV6699','embedded',
+telnet,'iGate (GW\d{3}) wireless ONT','IoT','iGate','GPON',match.group(1),'embedded',
+http,'iGate (GW\d{3}) GPON ONT','IoT','iGate','GPON',match.group(1),'embedded',
+telnet,'LANCOM vRouter','IoT','LANCOM','Router','Unknown','embedded',
+telnet,'NetComm VDSL2 N300 WiFi Router','IoT','NetComm','Router','N300','embedded',
+telnet,'MRD-310','IoT','Westermo','ICS','MRD-310','embedded',
+telnet,'(FVS\d{3}G)','IoT','Netgear','Router',match.group(1),'embedded',
+telnet,'(AC[1-5]?\d{3})','IoT','Netgear','Router',match.group(1),'embedded',
+telnet,'(R\d{4}V)','IoT','Netgear','Router',match.group(1),'embedded',
+http,'(R\d{4}V)','IoT','Netgear','Router',match.group(1),'embedded',
+telnet,'RV6699','IoT','SerComm','Router','RV6699','embedded',
+telnet,'SXTGAC200-AP','IoT','SEGURO','Baby Monitors','SXTGAC200-AP','embedded',
+telnet,'RAW300L','IoT','Digicom','Router','RAW300L','embedded',
+telnet,'(NBG-\d{3}N)','IoT','ZyXEL','Router',match.group(1),'embedded',
+http,'(NBG-\d{3}N)','IoT','ZyXEL','Router',match.group(1),'embedded',
+telnet,'(ZNID-GPON-\d{4})','IoT','Zhone','GPON',match.group(1),'Unknown'
+telnet,'(ZNID-GE-\d{4})','IoT','Zhone','ONT Router',match.group(1),'Unknown'
+telnet,'(DS\d{3}\d?[A-Z]?)','IoT','Synology','NAS',match.group(1),'embedded',
+http,'(DS\d{3}\d?[A-Z]?)','IoT','Synology','NAS',match.group(1),'embedded',
+ftp,'(DS\d{3}\d?[A-Z]?)','IoT','Synology','NAS',match.group(1),'embedded',
+telnet,'(MT76\d{2})','IoT','MediaTek ','Router',match.group(1),'embedded',
+telnet,'cisco2911','IoT','Cisco ','Integrated Services Router','cisco 2911','embedded',
+telnet,'AC886M','IoT','LB-LINK','Router','AC886M','embedded',
+telnet,'(TAU-\d{1}M.IP)','IoT','Eltex','VoIP',match.group(1),'embedded',
+telnet,'(RG-\d{4}G)','IoT','Eltex','Router',match.group(1),'embedded',
+http,'(RG-\d{4}G)','IoT','Eltex','Router',match.group(1),'embedded',
+telnet,'TVIP STB \((S\d{3}\w?)\)','IoT','TVIP','TVIP S-Box mediacenters',match.group(1),'embedded',
+telnet,'AC960','IoT','yuncore','Wifi Access Point','AC960','embedded',
+telnet,'Ex3300','IoT','Juniper','Firwall','Ex3300','embedded',
+telnet,'W120G','IoT','Linksys','ADSL Modem Router','W120G','embedded',
+telnet,'D301','IoT','Tenda','ADSL Modem Router','D301','embedded',
+telnet,'(WA\d{3}N)','IoT','leguang','Unknown',match.group(1),'embedded',
+telnet,'OpenEmbedded Linux','IoT','Unknown','Unknown','Unknown','OpenEmbedded Linux',
+telnet,'(US16\d{2})','IoT','ZTE','Firwall',match.group(1),'embedded',
+telnet,'(UR-[0-9]{3}[A-Z]?[0-9]?[A-Z]?)','IoT','UPVEL','Router',match.group(1),'embedded',
+telnet,'NAS2e','IoT','ipTime','NAS','Unknown','embedded',
+telnet,'(DSL-\d+\w?)','IoT','D-Link','Router',match.group(1),'embedded',
+http,'(DSL-\d+\w?)','IoT','D-Link','Router',match.group(1),'embedded',
+telnet,'(VMG\d{4})','IoT','ZyXEL','Router',match.group(1),'embedded',
+telnet,'(Air[0-9]{4}[A-Z]?[A-Z]?)','IoT','Airties','Router',match.group(1),'embedded',
+telnet,'(srx-\d+)','IoT','Juniper','Firwall',match.group(1),'embedded',
+telnet,'(SRX\d{3}\d?)','IoT','Juniper','Firwall',match.group(1),'embedded',
+ftp,'(srx-\d+)','IoT','Juniper','Firwall',match.group(1),'embedded',
+ftp,'(SRX\d{3}\d?)','IoT','Juniper','Firwall',match.group(1),'embedded',
+telnet,'(Netis\(WF\d{4}[A-Z]?\))','IoT','netis','Wireless Router',match.group(1),'embedded',
+telnet,'(H\d{3}[NL])','IoT','ZTE','Router',match.group(1),'embedded',
+http,'ZTE.*(H\d{3}[NL]?)','IoT','ZTE','Router',match.group(1),'embedded',
+telnet,'AC7000','IoT','Virdi','Face & Fingerprint Terminal','AC7000','Android',
+telnet,'(Fortigate-\d?-\d?)','IoT','Fortigate','Firwall',match.group(1),'embedded',
+telnet,'Fortigate-100A','IoT','Fortigate','Firwall','Fortigate-100A','embedded',
+telnet,'(FG\d{2}\d?[A-Z]+)','IoT','Fortinet','Firwall',match.group(1),'embedded',
+telnet,'(FGT\d+[A-Z]?)','IoT','Fortinet','Firwall',match.group(1),'embedded',
+telnet,'(FWF\d+[A-Z]?)','IoT','Fortinet','Firwall',match.group(1),'embedded',
+telnet,'(FAC\d{4})','IoT','yuncore','AC Controller',match.group(1),'embedded',
+telnet,'CimFax','IoT','CimFax','Fax','Unknown','embedded',
+telnet,'220 ipTIME_FTPD','IoT','netis','NAS','Unknown','embedded',
+telnet,'MikroTik','IoT','MikroTik','Router','Unknown','embedded',
+telnet,'USG40','IoT','ZyXE','Firwall','USG40','embedded',
+telnet,'EBG2800','IoT','ZTE','Unified Communication','ZXECS EBG2800','embedded',
+telnet,'(WR[24]000A?)','IoT','LB-LINK','Router',match.group(1),'embedded',
+telnet,'SMCWBR14S-','IoT','SMC','Router','SMCWBR14S','embedded',
+telnet,'WR-AC1200','IoT','TP-Link','Router','AC1200','embedded',
+telnet,'Aruba3400','IoT','Aruba','Mobility Controller','Aruba 3400','embedded',
+telnet,'H640GW','IoT','Dasan','GPON','H640GW','embedded',
+telnet,'SUSE Linux','Desktop','Linux','Unknown','SUSE Linux','SUSE Linux',
+telnet,'x86_64','Desktop','Unknown','Unknown','Unknown','embedded',
+telnet,'ONECAST OMAP-L138','IoT','ONECAST','Unknown','Unknown','embedded',
+telnet,'(WF[0-9]{4}[A-Z]?)','IoT','netis','Router',match.group(1),'embedded',
+telnet,'(MD[0-9]{3})','IoT','netis','Router',match.group(1),'embedded',
+telnet,'DNS-320L','IoT','D-Link','NAS','DNS-320L','embedded',
+telnet,'HDDM-ND24IP','IoT','Blonder Tongue','Network Decoder','ND-24-IP','embedded',
+telnet,'EZ960lite4','IoT','Hikvision','IP camera','EZ960lite4','embedded',
+telnet,'FG1060N','IoT','Lifetrons','Travel Router','FG-1060N','embedded',
+telnet,'(TD-W[0-9]{4}[A-Z]?)','IoT','TP-LINK','Router',match.group(1),'embedded',
+http,'(TD-W[0-9]{4}[A-Z]?)','IoT','TP-LINK','Router',match.group(1),'embedded',
+telnet,'WR9000','IoT','GRAPHTEC','Thermal Arraycorder','WR9000','embedded',
+telnet,'MT-WR760N','IoT','mt-link','Router','MT-WR760N','embedded',
+telnet,'(Hi\d{4}M)','IoT','Hisilicon','NVR',match.group(1),'embedded',
+telnet,'(ZMM[0-9]{3})','IoT','ZKteco','time attendance',match.group(1),'embedded',
+telnet,'(F\d{3}[A-Z]?)','IoT','ZTE','Router',match.group(1),'embedded',
+http,'(F\d{3}[A-Z]?)','IoT','ZTE','Router',match.group(1),'embedded',
+http,'(\sF\d{3}[A-Z]?)','IoT','ZTE','Router',match.group(1),'embedded',
+telnet,'(Innbox V[0-9]+) Home Gateway AnnexA','IoT','iskratel','Gateway',match.group(1),'embedded',
+telnet,'Innbox G2426A','IoT','iskratel','Gateway','Innbox G2426A','embedded',
+telnet,'Innbox G64 Home Gateway','IoT','iskratel','Gateway','Innbox G64','embedded',
+http,'Innbox G2400 Series Gateway','IoT','iskratel','Gateway','Innbox G2400','embedded',
+http,'Gepon-ONU-1GZ-V3','IoT','ZTE','GEPON','Innbox G2400','embedded',
+http,'Basic realm="ZHONE G2400 Series Gateway"','IoT','Zhone','Gateway','G2400','embedded',
+telnet,'vuultimo4k','IoT','Vuplus','UHD Receiver','vuultimo4k','embedded',
+telnet,'STMicroelectronics','IoT','STMicroelectronics','Unknown','Unknown','Unknown',
+telnet,'PMG2005-T20B','IoT','ZYXEL','GPON','PMG2005-T20B','Unknown',
+telnet,'TM02','IoT','HooToo','Travel Router','TripMate Nano (HT-TM02)','OpenWRT',
+telnet,'WD02','IoT','RavPower','Travel Router','AC750 Wireless Travel Router','OpenWRT',
+telnet,'ZLM60','IoT','ZKteco','time attendance','UA760/UA860','ZLM60',
+telnet,'H3C Tech','IoT','H3C','router','Unknown','Unknown',
+http,'H3C httpd','IoT','H3C','router','Unknown','Unknown',
+telnet,'H3C login:','IoT','H3C','router','Unknown','Unknown',
+ssl,'H3C','IoT','H3C','router','Unknown','Unknown',
+sip,'Asterisk\sPBX\s+([\w\-\.]*)\s','IoT','Asterisk','private branch exchange',match.group(1),'embedded',
+http,'(DCS-\d{3}\w{1})','IoT','D-Link','webcam',match.group(1),'embedded',
+http,'(DSR-\d{3}\w?)','IoT','D-Link','Router',match.group(1),'embedded',
+http,'(DIR\-\d{3}[\w+]?)','IoT','D-Link','WAP',match.group(1),'embedded',
+all,'(RT-[AN]\w+\-?\w*)','IoT','ASUS','WAP',match.group(1),'embedded',
+sip,'Server:\s(.*)/v\.\d\.\d{2}A\.\d{3}\.\d{3}','IoT',Audiocodes,VoIP Gateway,match.group(1),'embedded',
+telnet,'(BCM\d{5})','IoT','Broadcom','ADSL router',match.group(1),'embedded',
+telnet,BCM-J,'IoT','Broadcom','ADSL router','BCM-J','embedded',
+sip,'\((QUADROM?-.*)\)','IoT','Epygi Quadro',VoIP Gateway,match.group(1),'embedded',
+sip,'\((QX-.*)\)','IoT','Epygi Quadro',VoIP Gateway,match.group(1),'embedded',
+all,'(Tomcat\s+[0-9.]+)','Desktop',Apache,'software',match.group(1),'Unknown'
+sip,'(Kamailio\s+[0-9.]+)','IoT',Calloco-Dev,server,match.group(1),'Unknown'
+http,'(Firewall[-0-9]+)','IoT',Check Point,firewall,match.group(1),'Unknown'
+smtp,'(Firewall[-0-9]+)','IoT',Check Point,firewall,match.group(1),'Unknown'
+http,'(VPN[-0-9/]+[A-Z]+\s[A-Z]+)','IoT',Check Point,firewall,match.group(1),'Unknown'
+ftp,'(Disk\sStation\s[A-Z]+[-0-9]+)','IoT',Synology,NAS,match.group(1),'Unknown'
+http,'(DSL/DSL/[0-9]+)','IoT',Lancom,router,match.group(1),'Unknown'
+all,'([0-9]+\sEnterprise\sEdition)','IoT','Unknown',Control Center,match.group(1),'Unknown'
+http,'(3CRWE[0-9A-Z]+)','IoT',3Com,WAP,match.group(1),'Unknown'
+http,'(5500G[-A-Z0-9]+)','IoT',3Com,switch,match.group(1),'Unknown'
+http,'(Baseline\s[0-9-]+[A-Z])','IoT',3Com,switch,match.group(1),'Unknown'
+http,'(SuperStack\s[0-9]+\s[A-Z]+)','IoT',3Com,switch,match.group(1),'Unknown'
+http,'(3m-[0-9]+)','IoT',3M Filtrete,thermostat,match.group(1),'Unknown'
+http,'(4FXS\sATA[0-9]+)','IoT',CISCO,VoIP adapter,match.group(1),'Unknown'
+http,'(Aastra\s[0-9]+[a-z]+)','IoT',Aastra,VoIP phone,match.group(1),'Unknown'
+http,'(UFax[0-9]*\s[A-Z]+)','IoT',Aineton,printer,match.group(1),'Unknown'
+ftp,'(Alcatel-Lucent\s[0-9]+)','IoT',Alcatel-Lucent,router,match.group(1),'Unknown'
+http,'(wl-[0-9]+[a-z]*)','IoT',ASUS,WAP,match.group(1),'Unknown'
+telnet,'(P[0-5]{3}[A-Z]*)','IoT',Avaya,switch,match.group(1),'Unknown'
+rtsp,'(AXIS\s[0-9]+[A-Z]*)','IoT',AXIS,network camera,match.group(1),'Unknown'
+rtsp,'(PTZ\s[0-9]+)','IoT','Unknown',network camera,match.group(1),'Unknown'
+ftp,'([0-9]{3}[A-Z])','IoT',AXIS,network camera,match.group(1),'Unknown'
+ftp,'(AXIS\s2120)','IoT',AXIS,network camera,match.group(1),'Unknown'
+ftp,'(AXIS\s22FD)','IoT',AXIS,camera,match.group(1),'Unknown'
+ftp,'([0-9]{3}[A-Z]\sBlade])','IoT',AXIS,video server,match.group(1),'Unknown'
+http,'(5400)','IoT',AXIS,print server,match.group(1),'Unknown'
+ftp,'([A-Z][0-9]{4}[-][A-Z]+\s?[A-Za-z])','IoT',AXIS,network camera,match.group(1),'Unknown'
+telnet,'([A-Z][0-9]{4}[-][A-Z]+\s?[A-Za-z])','IoT',Baystack,switch,match.group(1),'Unknown'
+http,'(UR5i\s?v[0-9])','IoT',B&B Electronic,router,match.group(1),'Unknown'
+http,'(Belkin\s2307)','IoT',Belkin,wifi router,match.group(1),'Unknown'
+http,'(F[0-9][A-Z][0-9]{4}[-]?[0-9]?)','IoT',Belkin,WAP,match.group(1),'Unknown'
+all,'(BiPac\s?[0-9]{4}[A-Z])','IoT',Billion,router,match.group(1),'Unknown'
+telnet,'([bintec]+?\s?RS[0-9]{3}[a-z]*)','IoT',Funkwerk,ADSL router,match.group(1),'Unknown'
+telnet,'([A-Z]{2}[0-9]{3}\sBlade)','IoT',Fujitsu,chassis manager,match.group(1),'Unknown'
+ftp,'(EB[-][0-9]{2})','IoT',Canon,print server,match.group(1),'Unknown'
+http,'(imageRUNNER\s[A-Z]?[0-9]{4})','IoT',Canon,printer,match.group(1),'Unknown'
+ftp,'(imageRUNNER\s[A-Z]?[0-9]{4})','IoT',Canon,printer,match.group(1),'Unknown'
+http,'(iP[F]?[0-9]{3}[0-9]?[A-Z]+?)','IoT',Canon,printer,match.group(1),'Unknown'
+http,'(iR-[A-Z]+\s[A-Z][0-9]{4})','IoT',Canon,printer,match.group(1),'Unknown'
+http,'(i-SENSYS\s[A-Z]{3}[0-9]{4})','IoT',Canon,printer,match.group(1),'Unknown'
+http,'(MF[0-9]+\s?[Series]+?)','IoT',Canon,printer,match.group(1),'Unknown'
+http,'(MF[0-9]+\s?[Series]+?)','IoT',Canon,printer,match.group(1),'Unknown'
+http,'(VB-[A-Z][0-9]+)','IoT',Canon,webcam,match.group(1),'Unknown'
+http,'(CB-[A-Z][0-9]+)','IoT',Canon,webcam,match.group(1),'Unknown'
+http,'(WebView\s[A-Z]+[0-9]+)','IoT',Canon,webcam,match.group(1),'Unknown'
+sip,'([Int\sTraffic]+?\s?10.3.[0-9.]+)','Unknown',Cantata,'Unknown',match.group(1),'Unknown'
+http,'(DT-[0-9]{3}[A-Z])','IoT',Cerio,WAP,match.group(1),'Unknown'
+http,'(Firewall-1\s[Client Authentication]+\s?[Server]+?)','Unknown',Check Point,firewall,match.group(1),'Unknown'
+http,'(BF[0-9]{3})','IoT',CHIYU,ics device,match.group(1),'Unknown'
+telnet,'(Cisco\s1721)','IoT',Cisco,router,match.group(1),'Unknown'
+telnet,'(Cisco\s806)','IoT',Cisco,router,match.group(1),'Unknown'
+http,'(CP-[0-9]{4}[A-Z]?)','IoT',Cisco,VoIP phone,match.group(1),'Unknown'
+all,'(Cisco\s7940)','IoT',Cisco,IP Phone,match.group(1),'Unknown'
+ftp,'(IP\sVCR\s[0-9]{4})','IoT',Cisco,video conference system,match.group(1),'Unknown'
+telnet,'(MI[0-9]{3}[A-Z]{2})','IoT',Actiontec,router,match.group(1),'Unknown'
+http,'(SPA[0-9]{3}[A-Z]?)','IoT',Cisco,VoIP adapter,match.group(1),'Unknown'
+http,'(SPA[0-9]{3}[A-Z]?)','IoT',Cisco,VoIP Phone,match.group(1),'Unknown'
+ftp,'(TANDBERG\sCodian\s[A-Z]+\s[A-Z]{2}\s[0-9]{4})','IoT',Cisco,video conference system,match.group(1),'Unknown'
+ftp,'(TelePresence\sMCU\s[0-9]{4})','IoT',Cisco,videoconferencing bridge,match.group(1),'Unknown'
+all,'(TelePresence\sMCU\s[0-9]{4})','IoT',Cisco,videoconferencing bridge,match.group(1),'Unknown'
+http,'(CISCO\sWAP371)','IoT',Cisco,WAP,match.group(1),'Unknown'
+rtsp,'(WVC[0-9]{2}[A-Z]{3})','IoT',Cisco,webcam,match.group(1),'Unknown'
+telnet,'(CNU-[0-9]{3}[pro]+?)','IoT',C-motech,modem,match.group(1),'Unknown'
+http,'(C54[A-Z]{4})','IoT',Conceptronic,WAP,match.group(1),'Unknown'
+http,'(X-[0-9]{3})','IoT',Control By Web,remote management interface,match.group(1),'Unknown'
+all,'(MBR[1-9]{4})','IoT',CradlePoint,broadband router,match.group(1),'Unknown'
+all,'(DM-[A-Z0-9]+[x-]+[0-9]+[-]?[A-Z]?)','IoT',Crestron,automation system,match.group(1),'Unknown'
+all,'(MP2E\sCntrl\sEng)','IoT',Crestron,automation system,match.group(1),'Unknown'
+all,'(TSW[-][A-Z0-9]+[-]?[A-Z]+?)','IoT',Crestron,touch screen,match.group(1),'Unknown'
+all,'(Dell\s[A-Z0-9a-z]+)','IoT',Dell,laser printer,match.group(1),'Unknown'
+ftp,'(Dell\s[A-Z0-9a-z]+)','IoT',Dell,laser printer,match.group(1),'Unknown'
+http,'(Dell\s[A-Z0-9a-z]+)','IoT',Dell,laster printer,match.group(1),'Unknown'
+ftp,'(Dell\s[A-Z0-9a-z]+)','IoT',Dell,laser printer,match.group(1),'Unknown'
+all,'(V[0-9]+\sSeries)','IoT',Dell,print server,match.group(1),'Unknown'
+http,'(2600U)','IoT',D-Link,DSL router,match.group(1),'Unknown'
+config,'(Edgemarc\s[0-9]+)','IoT',Edgewater Networks,VoIP gateway,match.group(1),'Unknown'
+all,'(AcuLaser\s[A-Z0-9]+)','IoT',Epson,printer,match.group(1),'Unknown'
+telnet,'(AL-C[0-9]+[-][A-Z0-9]+)','IoT',Epson,print server,match.group(1),'Unknown'
+telnet,'(AL-C[0-9]+[-][A-Z0-9]+)','IoT',Epson,print server,match.group(1),'Unknown'
+telnet,'(AL-C[0-9]+[-][A-Z0-9]+)','IoT',Epson,print server,match.group(1),'Unknown'
+http,'(Artisan\s[0-9]+)','IoT',Epson,printer,match.group(1),'Unknown'
+telnet,'(EPL-N[0-9]+[-][A-Z0-9]+)','IoT',Epson,print server,match.group(1),'Unknown'
+http,'(Stylus\s?[Office]+?\s[A-Z0-9]+)','IoT',Epson,printer,match.group(1),'Unknown'
+http,'(WorkForce\s[A-Z0-9-]+)','IoT',Epson,printer,match.group(1),'Unknown'
+http,'(WorkForce\s[A-Z0-9-]+)','IoT',Epson,printer,match.group(1),'Unknown'
+http,'(ESP[0-9]+)','IoT',ESP-LINK,firmware,match.group(1),'Unknown'
+http,'(ECOR[0-9]+[-A-Z0-9]+?)','IoT',EverFocus,DVR,match.group(1),'Unknown'
+http,'(ENDEAVOR\s[A-Z0-9]+)','IoT',EverFocus,DVR,match.group(1),'Unknown'
+telnet,'(MAV\s[A-Z0-9]+)','IoT',Extron,MAV,match.group(1),'Unknown'
+telnet,'(CP450)','IoT',Extron,MAV,match.group(1),'Unknown'
+telnet,'(128CAT)','IoT',Extron,DMP,match.group(1),'Unknown'
+telnet,'(128C)','IoT',Extron,DMP,match.group(1),'Unknown'
+telnet,'(510 SA)','IoT',Extron,DVS,match.group(1),'Unknown'
+telnet,'(605 A)','IoT',Extron,DVS,match.group(1),'Unknown'
+telnet,'(PCS4i)','IoT',Extron,IPL,match.group(1),'Unknown'
+telnet,'(1000MV)','IoT',Extron,TLP,match.group(1),'Unknown'
+http,'(FW[R]?[0-9]{3}[A-Z]*)','IoT','Fast','WAP',match.group(1),'Unknown'
+http,'(FW[R]?[0-9]{3}[A-Z]*)','IoT','Fast','WAP',match.group(1),'Unknown'
+telnet,'FAST2604 ADSL Router','IoT','FAST','Router','FAST2604','Unknown'
+http,'FAST35XX','IoT','FAST','Router','FAST35XX','Unknown'
+http,'(MW[0-9]{3}[A-Z])','IoT',Fast,WAP,match.group(1),'Unknown'
+telnet,'(foobar[0-9][0]{3})','IoT',Foobar,remote control,match.group(1),'Unknown'
+telnet,'(FESX[0-9]{3}[A-Z])','IoT',Foundry,switch,match.group(1),'Unknown'
+ftp,'(Fon\sWLAN\s[A-Z0-9]+)','IoT',FRITZ!Box,WAP,match.group(1),'Unknown'
+http,'(ApeosPort[-IV]+?\sC?[0-9]{4})','IoT',Fuji-Xerox,printer,match.group(1),'Unknown'
+http,'(DocuCentre[-IV]+?\sC?[0-9]{4})','IoT',Fuji-Xerox,printer,match.group(1),'Unknown'
+http,'(Document\sCentre\sC?[0-9]+)','IoT',FujiXerox,printer,match.group(1),'Unknown'
+http,'(Document\sCentre\sC?[0-9]+)','IoT',Fuji-Xerox,printer,match.group(1),'Unknown'
+http,'(Document\sCentre\sC?[0-9]+)','IoT',FujiXerox,printer,match.group(1),'Unknown'
+http,'(DocuPrint\sC?[0-9]+\s?[-A-Z]+?\s?[A-Z]+?)','IoT',Fuji-Xerox,printer,match.group(1),'Unknown'
+ftp,'(DocuPrint\sC?[0-9]+\s?[-A-Z]+?\s?[A-Z]+?)','IoT',FujiXerox,printer,match.group(1),'Unknown'
+http,'(WorkCentre\s[0-9]+[A-Z]+?)','IoT',Fuji-Xerox,printer,match.group(1),'Unknown'
+all,'([bintec]+?\s?RS[0-9]{3}[a-z]*)','IoT',Funkwerk,router,match.group(1),'Unknown'
+http,'(NC[0-9]{4}-L[0-9]{2})','IoT',Gadspot,webcam,match.group(1),'Unknown'
+http,'(B49G)','IoT',Gigabyte,WAP,match.group(1),'Unknown'
+http,'(GN-[A-Z0-9]+)','IoT',Gigabyte,WAP,match.group(1),'Unknown'
+ftp,'(GC-[0-9]{3})','IoT',Global Cache,home network adapter,match.group(1),'Unknown'
+http,'(BT2[0-9]+[A-Z]*)','IoT',Grandstream,VoIP phone,match.group(1),'Unknown'
+telnet,'(BT2[0-9]+[A-Z]*)','IoT',Grandstream,VoIP phone,match.group(1),'Unknown'
+telnet,'(GX[A-Z][-]?[0-9]+)','IoT',Grandstream,VoIP phone,match.group(1),'Unknown'
+http,'(GX[A-Z][-]?[0-9]+)','IoT',Grandstream,VoIP phone,match.group(1),'Unknown'
+http,'(HT[0-9]+)','IoT',Grandstream,VoIP router,match.group(1),'Unknown'
+http,'(DX230)','IoT',Green Packet,WAP,match.group(1),'Unknown'
+http,'(MG[0-9]{4})','IoT',H3C,media device,match.group(1),'Unknown'
+http,'(WG-[0-9]+)','IoT',Handlink Commercial Hotspots,hotspot gateway,match.group(1),'Unknown'
+rtsp,'(POE\s[0-9]+)','IoT',Hikvision,IP camera,match.group(1),'Unknown'
+telnet,'(2530-8G[-PoEP]+?\sSwitch)','IoT',HP,switch,match.group(1),'Unknown'
+http,'(Color\sLaserJet\s[A-Z0-9]+\s?[A-Z0-9]+)','IoT',HP,printer,match.group(1),'Unknown'
+http,'(DeskJet\s[0-9]{4})','IoT',HP,printer,match.group(1),'Unknown'
+http,'(ENVY\s[0-9]+)','IoT',HP,printer,match.group(1),'Unknown'
+http,'(J4[0-9]{3}[A-Z])','IoT',HP,switch,match.group(1),'Unknown'
+http,'(LaserJet\s[A-Za-z0-9]+\s?[A-Z]*)','IoT',HP,printer,match.group(1),'Unknown'
+ftp,'(LaserJet\s[A-Za-z0-9]+\s?[A-Z]*)','IoT',HP,printer,match.group(1),'Unknown'
+http,'(LaserJet\sPro\s[A-Za-z0-9]+\s?[A-Z]+)','IoT',HP,printer,match.group(1),'Unknown'
+http,'(Officejet\s[Pro]?\s?[A-Z0-9]+\s?[A-Za-z0-9]+?)','IoT',HP,printer,match.group(1),'Unknown'
+http,'(HP\sOfficeJet\s\d{4}\sseries)','IoT',HP,printer,match.group(1),'Unknown'
+http,'(PageWide\s[A-Za-z]+\s[A-Za-z0-9]+?)','IoT',HP,printer,match.group(1),'Unknown'
+http,'(Photosmart\s[Prem]+?\s?[C0-9]+)','IoT',HP,printer,match.group(1),'Unknown'
+telnet,'(ProCurve\s[A-Za-z0-9]+[-]?[A-Za-z0-9-]+?)','IoT',HP,switch,match.group(1),'Unknown'
+http,'(ProCurve\s[A-Za-z0-9]+[-]?[A-Za-z0-9-]+?)','IoT',HP,switch,match.group(1),'Unknown'
+http,'(StorageWorks\s[A-Z0-9]+)','IoT',HP,tape library,match.group(1),'Unknown'
+telnet,'(AR[0-9]{2}[-][0-9]{2})','IoT',Huawei,router,match.group(1),'Unknown'
+http,'(ESPACE\s[0-9]+\s?[series]+?)','IoT',Huawei,IP phone,match.group(1),'Unknown'
+http,'(HG\d{3})','IoT',Huawei,'Gateway Wireless Router',match.group(1),'Unknown'
+telnet,'(HG\d{3})','IoT',Huawei,'Gateway Wireless Router',match.group(1),'Unknown'
+http,'(Secoway\sUSG[A-Za-z0-9-]+?)','IoT',Huawei,firewall,match.group(1),'Unknown'
+http,'(SRG[A-Z0-9]+)','IoT',Huawei,router,match.group(1),'Unknown'
+all,'(Infoprint\s[0-9]+)','IoT',IBM,printer,match.group(1),'Unknown'
+ftp,'(Infoprint\s[0-9]+)','IoT',IBM,printer,match.group(1),'Unknown'
+sip,'(IceWarp/[0-9.]+[x\s]+?[A-Za-z0-9\s]+?)','Unknown',IceWarp,mail server,match.group(1),'Unknown'
+http,'(tDS-[0-9]+)','IoT',ICP DAS,ics device,match.group(1),'Unknown'
+all,'(1284.4)','IoT',IEEE,scan peripheral gateway,match.group(1),'Unknown'
+http,'(1.00E+04)','IoT',i.LON,internet server,match.group(1),'Unknown'
+ftp,'(EonStor\s[A-Z0-9]{4}[-][A-Z0-9]+)','IoT',Infortrend,storage system,match.group(1),'Unknown'
+http,'(IP[0-9]{3}[A-Z]?)','IoT',Innovaphone,VoIP phone,match.group(1),'Unknown'
+http,'(CK31)','IoT',Intermec,barcode scanner,match.group(1),'Unknown'
+ftp,'(PM4i)','IoT',Intermec,printer,match.group(1),'Unknown'
+http,'(InterTel\s[0-9]+)','IoT',InterTel,VoIP phone,match.group(1),'Unknown'
+ftp,'(A[0-9]{4}[NS][\s-]+?[A-Za-z]+)','IoT',ipTIME,WAP,match.group(1),'Unknown'
+http,'(N[0-9]{3}T)','IoT',ipTIME,WAP,match.group(1),'Unknown'
+telnet,'(IQ[A-Za-z0-9]+)','IoT',IQinVision,camera,match.group(1),'Unknown'
+telnet,'(P2CC)','IoT',Iskraemeco,smart electrical meter readout,match.group(1),'Unknown'
+http control,'(JA[0-9]+WEB)','IoT',Jablotron,alarm,match.group(1),'Unknown'
+http,'(MAP[0-9]+)','IoT',JMP SYSTEM,WAP,match.group(1),'Unknown'
+http,'(SA[0-9]{4})','IoT',Juniper,VPN gateway,match.group(1),'Unknown'
+http,'(SSG[0-9]{3})','IoT',Juniper,firewall,match.group(1),'Unknown'
+http,'(VR-[0-9]+-series)','IoT',JVC,DVR,match.group(1),'Unknown'
+ftp,'(B-web\s[0-9]+\s[0-9]+)','IoT',Kaba,timeclock,match.group(1),'Unknown'
+sip,'(v.[A-Z]{3}-[0-9]{2}\s[A-Za-z0-9.'/'_]+)','Unknown',KAREL,sip-SPC,match.group(1),'Unknown'
+ftp,'(DP-[0-9]+)','IoT',Kiss,PVR,match.group(1),'Unknown'
+smtpd,'(bizhub\sBT[A-Z0-9]+)','IoT',Konica Minolta,printer,match.group(1),'Unknown'
+http,'(Kyocera\sCommand\sCenter)','IoT',Kyocera,printer,match.group(1),'Unknown'
+http,'(FS-[A-Z0-9]+)','IoT',Kyocera,printer,match.group(1),'Unknown'
+ftp,'(FS-[A-Z0-9]+)','IoT',Kyocera,printer,match.group(1),'Unknown'
+http,'(TASKalfa\s[0-9]{3}i)','IoT',Kyocera,printer,match.group(1),'Unknown'
+http,'(LANCOM\s1611+)','IoT',LANCOM,broadband router,match.group(1),'Unknown'
+http,'(DSL/1100)','IoT',Lancom,router,match.group(1),'Unknown'
+http,'(L-[0-9]{3}[a-z]+)','IoT',Lancom,wireless router,match.group(1),'Unknown'
+http,'(OAC-[0-9]+-[0-9]{1})','IoT',Lancom,wireless router,match.group(1),'Unknown'
+ftp,'(MP\s[0-9]+)','IoT',Lanier,printer,match.group(1),'Unknown'
+ftp,'(Lanier/sC3500/LD435c)','IoT',Lanier,printer,match.group(1),'Unknown'
+ftp,'(Lanier/sPro/s[0-9A-Z]+)','IoT',Lanier,printer,match.group(1),'Unknown'
+http,'(WBR-[A-Z0-9]+)','IoT',LevelOne,router,match.group(1),'Unknown'
+all,'(Lexmark\sC[0-9]+)','IoT',Lexmark,printer,match.group(1),'Unknown'
+all,'(Lexmark\sCS[0-9a-z]+)','IoT',Lexmark,printer,match.group(1),'Unknown'
+http,'(Lexmark\sCX[0-9a-z]+)','IoT',Lexmark,printer,match.group(1),'Unknown'
+ftp,'(Lexmark\sCX[0-9a-z]+)','IoT',Lexmark,printer,match.group(1),'Unknown'
+all,'(Lexmark\sE[0-9a-z]+)','IoT',Lexmark,print server identification,match.group(1),'Unknown'
+ftp,'(Forms\sPrinter\s[0-9]+)','IoT',Lexmark,ethernet printer,match.group(1),'Unknown'
+all,'(Lexmark\sMS[0-9a-z]+)','IoT',Lexmark,printer,match.group(1),'Unknown'
+http,'(Lexmark\sMX[0-9a-z]+)','IoT',Lexmark,printer,match.group(1),'Unknown'
+ftp,'(Lexmark\sN[0-9a-z]+)','IoT',Lexmark,printer,match.group(1),'Unknown'
+ftp,'(Lexmark\s[S300-S400]+\s?[sSeries]+?)','IoT',Lexmark,printer,match.group(1),'Unknown'
+all,'(Lexmark\sT[0-9]+)','IoT',Lexmark,print server identification,match.group(1),'Unknown'
+ftp,'(Lexmark\sW[0-9]+)','IoT',Lexmark,printer,match.group(1),'Unknown'
+all,'(Lexmark\sX[0-9a-z]+)','IoT',Lexmark,printer,match.group(1),'Unknown'
+ftp,'(Lexmark\sXC[0-9a-z]+)','IoT',Lexmark,printer,match.group(1),'Unknown'
+all,'(Lexmark\sXM[0-9a-z]+)','IoT',Lexmark,printer,match.group(1),'Unknown'
+http,'(L[A-Z]Pp0-9]{4}DN)','IoT',LG,printer,match.group(1),'Unknown'
+http,'(Video\sConference\System\[0-9]+)','IoT',Lifesize,Video Conference System,match.group(1),'Unknown'
+http,'(CIT[0-9]+)','IoT',Linksys,VoIP phone,match.group(1),'Unknown'
+http,'(RV[0-9]+)','IoT',Linksys,VPN router,match.group(1),'Unknown'
+http,'(SPA[0-9]+)','IoT',Linksys,VoIP phone,match.group(1),'Unknown'
+http,'(SRW[0-9]+)','IoT',Linksys,switch,match.group(1),'Unknown'
+http,'(WRT[0-9]+[A-Z]+[v0-9]+?)','IoT',Linksys,WAP,match.group(1),'Unknown'
+http,'(WRT[54]+?G[A-Z0-9]+?[-]?[0-9]+?)','IoT',Linksys,wireless-G router,match.group(1),'Unknown'
+http,'(WRT54G[-]?[_]?[A-Za-z]+)','IoT',Linksys,wireless-G router,match.group(1),'Unknown'
+sip,'(M5T\sSIP\sStack/[0-9.a-z]+)','IoT',M5T,Stack,match.group(1),'Unknown'
+http,'(IPn4G)','IoT',Microhard,consumer-perimises equipment,match.group(1),'Unknown'
+http,'(1763-L16DWD)','IoT',MicroLogix,logic controller,match.group(1),'Unknown'
+imap,'(Microsoft\sExchange\s[20][0-9]{2}?)','Desktop',Microsoft,server,match.group(1),'Unknown'
+imap,'Winmail','Desktop','Microsoft','Unknown','Unknown','Unknown'
+imap,'x64','Desktop','Microsoft','Unknown','Unknown','Unknown'
+ftp,'x64','Desktop','Microsoft','Unknown','Unknown','Unknown'
+pop3,'Winmail','Desktop','Microsoft','Unknown','Unknown','Unknown'
+pop3,'x64','Desktop','Microsoft','Unknown','Unknown','Unknown'
+pop3,'x64','Desktop','Microsoft','Unknown','Unknown','Unknown'
+pop3,'(Microsoft\sExchange\s)','Desktop',Microsoft,server,match.group(1),'Unknown'
+http,'(RouterBoard\s[0-9]+[GS]+?)','IoT',MikroTik,router,match.group(1),'Unknown'
+ftp,'(PagePro\s[0-9]+)','IoT',Minolta,printer,match.group(1),'Unknown'
+http,'(XD1000)','IoT',Mitsubishi,projector,match.group(1),'Unknown'
+http,'(HomeNet\s[A-Z0-9]+)','IoT',Motorola,router,match.group(1),'Unknown'
+sip,'(SBV[0-9]+[-SIP]+?[-A-Z0-9.]+)','IoT',Motorola,modem,match.group(1),'Unknown'
+ftp,'(MultiWriter\s[A-Z0-9]+)','IoT',NEC,printer,match.group(1),'Unknown'
+http,'(NP[0-9]+\s[sSeries]+)','IoT',NEC,projector,match.group(1),'Unknown'
+http,'(NP[0-9]{3}[N]?)','IoT',Netcomm,WAP,match.group(1),'Unknown'
+http,'([NETCOREnetcore]+\sNR[0-9]+[A-Z]+?)','IoT',Netcore,router,match.group(1),'Unknown'
+http,'([NETCOREnetcore]+\sNW[0-9]+[A-Z]+?)','IoT',Netcore,WAP,match.group(1),'Unknown'
+http,'([NETGEARnetgear]+?\s?D[0-9]+)','IoT',Netgear,WAP,match.group(1),'Unknown'
+http,'(D[G]?834[A-Z]+)','IoT',Netgear,router,match.group(1),'Unknown'
+http,'(DGN[0-9]+[A-Z]?[vV0-9]+?)','IoT',Netgear,WAP,match.group(1),'Unknown'
+telnet,'(DM111[vV0-9]+?)','IoT',Netgear,broadband router,match.group(1),'Unknown'
+http,'(DM111PSP[v0-9]+)','IoT',Netgear,router,match.group(1),'Unknown'
+http,'(FS[M]?726[A-Z0-9]+)','IoT',Netgear,switch,match.group(1),'Unknown'
+telnet,'(FS[M]735[0-9S]+?)','IoT',Netgear,router,match.group(1),'Unknown'
+telnet,'(FV[S]?\d{3}G?)','IoT',Netgear,router,match.group(1),'Unknown'
+http,'(FV[S]?\d{3}G?)','IoT',Netgear,router,match.group(1),'Unknown'
+http,'(GS[M]?[0-9]+[TSP]+)','IoT',Netgear,switch,match.group(1),'Unknown'
+http,'(GSM7[0-9]+[FSV]+)','IoT',Netgear,switch,match.group(1),'Unknown'
+http,'(M5300-[0-9A-Z]+)','IoT',Netgear,switch,match.group(1),'Unknown'
+http,'(M6100-[0-9A-Z]+)','IoT',Netgear,switch,match.group(1),'Unknown'
+telnet,'(Netopia\s[A-Z0-9]+)','IoT',Netgear,router,match.group(1),'Unknown'
+http,'(NT834)','IoT',Netgear,WAP,match.group(1),'Unknown'
+http,'(ProSAFE\sGS[0-9]+[A-Z]+[\svV0-9]+?)','IoT',Netgear,switch,match.group(1),'Unknown'
+http,'(R6100)','IoT',Netgear,WAP,match.group(1),'Unknown'
+http,'(S3300-[0-9A-Z]+)','IoT',Netgear,switch,match.group(1),'Unknown'
+http,'(WGR[0-9]+[vV0-9]+?)','IoT',Netgear,WAP,match.group(1),'Unknown'
+http,'(WGU[0-9]+[vV0-9]+)','IoT',Netgear,WAP,match.group(1),'Unknown'
+http,'(WN[D]?R[0-9]+[vV0-9]+?)','IoT',Netgear,WAP,match.group(1),'Unknown'
+http,'(XS[M]?[0-9]+[A-Z])','IoT',Netgear,switch,match.group(1),'Unknown'
+http,'(WF2[0-9]{3})','IoT',Netis System,WAP,match.group(1),'Unknown'
+all,'(TK6[0-9]{3})','IoT',NetTalk,VoIP phone adapter,match.group(1),'Unknown'
+http,'(Access\sGateway\sAG\s[0-9]+)','IoT',Nomadix,router,match.group(1),'Unknown'
+telnet,'(Nortel\s45[0-9]+[-sSeries]+?)','IoT',Nortel,switch,match.group(1),'Unknown'
+http,'(MiFi\s[0-9]+)','IoT',Novatel,WAP,match.group(1),'Unknown'
+http,'(W7V[A-Z0-9]+)','IoT',Samsung,printer,match.group(1),'Unknown'
+http,'(Black\sArmor\s[0-9]+)','IoT',Seagate,NAS,match.group(1),'Unknown'
+http,'(SVR-[0-9]+)','IoT',SEEnergy,DVR,match.group(1),'Unknown'
+http,'(Senturion\sS[0-9]+)','IoT',Sensatronics,environmental sensor,match.group(1),'Unknown'
+http,'(AR-[M]?2[0-9]+)','IoT',Sharp,printer,match.group(1),'Unknown'
+ftp,'(AR-4528U)','IoT',Sharp,printer,match.group(1),'Unknown'
+ftp,'(MX-[2-4][0-9]+[A-Z]+?)','IoT',Sharp,printer,match.group(1),'Unknown'
+telnet,'(AR-[M]?2[0-9]+)','IoT',Sharp,printer,match.group(1),'Unknown'
+telnet,'(MX-[2-4][0-9]+[A-Z]+?)','IoT',Sharp,printer,match.group(1),'Unknown'
+telnet'(C2-010-I)',,'IoT',Siemens,ADSL router,match.group(1),'Unknown'
+ftp,'(Silex\s[A-Z]-[A-Z0-9]+)','IoT',Silex,USB server,match.group(1),'Unknown'
+http,'(HDHomeRun\s[A-Z0-9]+[-]?[A-Z0-9]+)','IoT',SiliconDust,DVR,match.group(1),'Unknown'
+http,'(Snom\s[0-9]+)','IoT',Snom,VoIP phone,match.group(1),'Unknown'
+http,'(SolarLog\s[0-9a-z]+)','IoT',SolarLog,power monitor,match.group(1),'Unknown'
+http interface,'(LF-[A-Z0-9]+\sLocationFree)','IoT',Sony,TV,match.group(1),'Unknown'
+telnet,'(PCS-TL[0-9]+)','IoT',Sony,video conferencing system,match.group(1),'Unknown'
+http,'(StorEdge\s[0-9])','IoT',Sun,SATA Array,match.group(1),'Unknown'
+all,'(Tandberg\s[0-9]+)','IoT',Tandberg,VoIP server,match.group(1),'Unknown'
+ftp,'(Disk\sStation\sDS-[0-9]+?)','IoT',Synology,NAS,match.group(1),'Unknown'
+telnet,'(Himalaya\s[A-Z0-9]+)','Desktop',Tandem,PC,match.group(1),'Unknown'
+http,'(NSK\sD[0-9]+)','Desktop',Tandem,PC,match.group(1),'Unknown'
+http,'(TG787)','IoT',Technicolor,VoIP gateway,match.group(1),'Unknown'
+http,'(FW[R]?[1-9]{3}[A-Z]*)','IoT',TP-Link,router,match.group(1),'Unknown'
+http,'(T[DL][-]?[A-Z0-9]+)','IoT',TP-Link,WAP,match.group(1),'Unknown'
+http,'(WA[0-9]+[N]?)','IoT',TP-Link,WAP,match.group(1),'Unknown'
+http,'(W[D]?R[0-9]+[N]?)','IoT',TP-Link,WAP,match.group(1),'Unknown'
+http,'(WPA[0-9]+)','IoT',TP-Link,powerline extender,match.group(1),'Unknown'
+http,'(TEW-[0-9]+[AP]+?)','IoT',TRENDnet,WAP,match.group(1),'Unknown'
+http,'(TV-IP[4-9]51W[IC]+_[A-Z0-9]+)','IoT',TRENDnet,camera,match.group(1),'Unknown'
+http,'(AG2800[A-Z0-9]+)','IoT',UBIQUOSS,switch,match.group(1),'Unknown'
+http,'(E5300B-08P)','IoT',UBIQUOSS,switch,match.group(1),'Unknown'
+http,'(FK-C2-RADC)','IoT',UBIQUOSS,switch,match.group(1),'Unknown'
+http,'(FXC5224)','IoT',UBIQUOSS,switch,match.group(1),'Unknown'
+http,'(GSW-3208M1)','IoT',UBIQUOSS,switch,match.group(1),'Unknown'
+http,'(OL-MEN99428)','IoT',UBIQUOSS,switch,match.group(1),'Unknown'
+http,'(PSGS-2314J)','IoT',UBIQUOSS,switch,match.group(1),'Unknown'
+http,'(SFC400[A-Z]+[-HP]?)','IoT',UBIQUOSS,switch,match.group(1),'Unknown'
+http,'(SMCGS[0-9]+[A-Z]-Smart)','IoT',UBIQUOSS,switch,match.group(1),'Unknown'
+http,'(UBIQUOSS\sV[0-9]+[s]?)','IoT',UBIQUOSS,switch,match.group(1),'Unknown'
+telnet,'(USR[0-9]+)','IoT',USRobotics,WAP,match.group(1),'Unknown'
+all,'(Hiper\s[0-9])','IoT',UTT,router,match.group(1),'Unknown'
+ftp,'(VBrick\s[0-9]+)','IoT',VBrick,video encoder,match.group(1),'Unknown'
+http,'(VBrick\s[0-9]+)','IoT',VBrick,video encoder,match.group(1),'Unknown'
+telnet,'(VBrick\s[0-9]+)','IoT',VBrick,video encoder,match.group(1),'Unknown'
+http,'(AT[0-9])','IoT',VeEX,specialized spectrum analyzer,match.group(1),'Unknown'
+telnet,'(NetEngine\sIAD\sNE[0-9A-Z]+[-]?[0-9]+?)','IoT',Verilink,integrated access device,match.group(1),'Unknown'
+http,'(MiFi\s[0-9]+\s[A-Z0-9]+)','IoT',Verizon,WAP,match.group(1),'Unknown'
+http,'(Vertical\sEdge\s[0-9i]+)','IoT',Vertical Edge,VoIP phone,match.group(1),'Unknown'
+http,'(PJD[0-9]+)','IoT',ViewSonic,projector,match.group(1),'Unknown'
+telnet,'(eLink\s[0-9]+)','IoT',Vina Technologies,integrator,match.group(1),'Unknown'
+telnet,'(Vivotek\s[0-9]+)','IoT',Vivotek,camera,match.group(1),'Unknown'
+rtsp,'(IP713[0-9])','IoT',Vivotek,webcam,match.group(1),'Unknown'
+http,'(ND[7-9][0-9]+[P]?)','IoT',Vivotek,DVR,match.group(1),'Unknown'
+http,'(PT[0-9]+)','IoT',Vivotek,webcam,match.group(1),'Unknown'
+http,'(VOLANS-[0-9]+)','IoT',Volans Technology,router,match.group(1),'Unknown'
+http,'(NSH-[0-9])','IoT',Volktek,switch,match.group(1),'Unknown'
+telnet,'(VSX\s[0-9][0]{3}[A-Za-z])','IoT',Polycom,video conferencing system,match.group(1),'Unknown'
+all,'(TR-[0-9]+)','IoT',Westell,broadband router,match.group(1),'Unknown'
+http,'(MRD-[0-9]+)','IoT',Westermo,router,match.group(1),'Unknown'
+http,'(MyNet\s[0-9]+)','IoT',Western Digital,storage-misc,match.group(1),'Unknown'
+http,'(EMU-[A-Z0-9]+)','IoT',Winy,environmental monitoring system,match.group(1),'Unknown'
+http,'(Perpetual\s[0-9.]+\sbuild[0-9]+)','IoT',Wowza,Media Server,match.group(1),'Unknown'
+http,'(Subscription\s[0-9.]+\sbuild[0-9]+)','IoT',Wowza,Media Server,match.group(1),'Unknown'
+http,'(Daily\sEdition\s[0-9.]+\sbuild[0-9]+)','IoT',Wowza,Media Server,match.group(1),'Unknown'
+http,'(Monthly\sEdition\s\s[0-9.]+\sbuild[0-9]+)','IoT',Wowza,Media Server,match.group(1),'Unknown'
+http,'(Pro[0-9]+?\s[0-9.]+\sbuild[0-9]+)','IoT',Wowza,Media Server,match.group(1),'Unknown'
+http,'(WRT[A-Z0-9]+)','IoT',Linksys,WAP,match.group(1),'Unknown'
+all,'(Winterm\s[0-9]+\s?[LE]+?)','Desktop',Wyse,Desktop',match.group(1),'Unknown'
+http,'(ActivePhone\sX10)','IoT',ActivePhone,remote control,match.group(1),'Unknown'
+ftp,'(Xavi\s[0-9]+)','IoT',Xavi,WAP,match.group(1),'Unknown'
+all,'(XG[0-9]+[a-z]?)','IoT',Xavi,Wireless Gateway,match.group(1),'Unknown'
+http,'(DocuColor\s[0-9]+)','IoT',Xerox,printer,match.group(1),'Unknown'
+http,'(Phaser\s[0-9]+[DN]+?)','IoT',Xerox,printer,match.group(1),'Unknown'
+ftp,'(Phaser\s[0-9]+[DN]+?)','IoT',Xerox,printer,match.group(1),'Unknown'
+http,'(WorkCentre\s[0-9]+[A-Z]+?)','IoT',Xerox,printer,match.group(1),'Unknown'
+http,'(WorkCentre\sPro\s[0-9]+)','IoT',Xerox,printer,match.group(1),'Unknown'
+http,'(CD-N[T]?[0-9]+)','IoT',Yamaha,AV Receiver,match.group(1),'Unknown'
+http,'(CRX-N[0-9]+[A-Z]?)','IoT',Yamaha,AV Receiver,match.group(1),'Unknown'
+http,'(CX-[A]?[0-9]+)','IoT',Yamaha,video device,match.group(1),'Unknown'
+http,'(HTR-[0-9]+)','IoT',Yamaha,video device,match.group(1),'Unknown'
+http,'(Yamaha\sM7CL)','IoT',Yamaha,sound board,match.group(1),'Unknown'
+http,'(R-N[0-9]+[A-Z])','IoT',Yamaha,AV Receiver,match.group(1),'Unknown'
+http,'(RX-A[0-9]+)','IoT',Yamaha,video device,match.group(1),'Unknown'
+http,'(RX-S[0-9]+[A-Z])','IoT',Yamaha,video device,match.group(1),'Unknown'
+http,'(TSR-[0-9]+)','IoT',Yamaha,AV Receiver,match.group(1),'Unknown'
+http,'(WX-0[0-9]+)','IoT',Yamaha,AV Receiver,match.group(1),'Unknown'
+http,'(YSP-[0-9]+)','IoT',Yamaha,AV Receiver,match.group(1),'Unknown'
+http,'(ZPL\s[A-Z0-9i]+[-]?[A-Z0-9a-z]+)','IoT',Zebra,label priner,match.group(1),'Unknown'
+ftp,'(GK4[0-9]+[A-Za-z])','IoT',Zebra,printer,match.group(1),'Unknown'
+http,'(ZBR[0-9]+)','IoT',ZebraNet,print server,match.group(1),'Unknown'
+http,'(ZM400-[0-9]+dpi\s[A-Z]+[-]?[A-Z]?)','IoT',Zebra,label printer,match.group(1),'Unknown'
+telnet,'(ZEM[0-9]+)','IoT',ZKSoftware,'time attendance',match.group(1),embedded
+http,'(ZOT-PS-[0-9]+)','IoT',ZO Tech,print server,match.group(1),'Unknown'
+telnet,'(ZXDSL\s[A-Z0-9]+)','IoT',ZTE,router,match.group(1),'Unknown'
+ftp,'(ZXR[0-9]+)','IoT',ZTE,switch,match.group(1),'Unknown'
+http,'(ES-[0-9]+[PWR]+?)','IoT',ZyXEL,switch,match.group(1),'Unknown'
+http,'(Smart\sManaged\s[0-9]+\s?[Series]+?)','IoT',ZyXEL,switch,match.group(1),'Unknown'
+ftp,'(Unified\sAccess)','IoT',ZyXEL,gateway,match.group(1),'Unknown'
+http,'(VSG[-]?[0-9]+[-][A-Z0-9]+)','IoT',ZyXEL,Commercial Hotspot,match.group(1),'Unknown'
+http,'(N-lite\sHome\sNBG-[A-Z0-9]+)','IoT',ZyXEL,router,match.group(1),'Unknown'
+telnet,'(ZXDSL\s[A-Z0-9]+)','IoT',ZyXEL,ADSL modem,match.group(1),'Unknown'
+http,'(ZyWALL\s[USG]+?[0-9]+\s?[-]?[A-Z0-9]+)','Unknown',ZyXEL,firewall,match.group(1),'Unknown'
+ftp,'SR 7750','IoT','ALCATEL','Router','SR 7750','TIMOS',
+ftp,'Allworx','IoT','Allworx','VOIP','Unknown','Unknown',
+telnet,'SNumber: M113-','IoT','2N','gateway','VoiceBlue Lite GSM','embedded',
+telnet,'3Com.*Switch.*4500G','IoT',3Com,switch,SuperStack 3 4500G,'embedded',
+telnet,'3Com.*Switch.*4500','IoT',3Com,switch,SuperStack 3 4500,'embedded',
+telnet,'3Com.*Switch.*5500G','IoT',3Com,switch,5500G-El,'embedded',
+telnet,'3Com.*Switch.*5500','IoT',3Com,switch,5500-El,'embedded',
+telnet,'3Com.*7760','IoT','3Com','WAP','7760','embedded',
+telnet,'3Com.*8760','IoT','3Com','WAP','8760','embedded',
+telnet,'3CRWDR101A-75','IoT,'3Com','Router','3CRWDR101A-75','embedded',
+telnet,'AR28-09','IoT','Huawei','switch','Quidway AR28-09','embedded',
+ftp,'220 (AP\d+) Network Management Card AOS','IoT','APC','PDU',match.group(1),'AOS',
+ftp,'220 Welcome to ASUS (.+) FTP service','IoT','ASUS','SOHO_ROUTER',match.group(1),'embedded',
+ftp,'220 Welcome to the WL700gE FTP service','IoT','ASUS','SOHO_ROUTER','WL700gE','embedded',
+ftp,^220 AXIS (.+ Camera) \d+\.\d+','IoT','AXIS','Camera',match.group(1),'embedded',
+ftp,'220 AXIS [^\s]* Video Encoder','IoT','AXIS','DVR','Unknown','embedded',
+ftp,'220 Belkin Network USB Hub Ver \d+\.\d+\.\d+ FTP',IoT,'BELKIN','USB_HUB','Unknown','embedded',
+ftp,'220[- ]BulletProof FTP Server ready','Desktop','BulletProof','software','Unknown','WINDOWS',
+ftp,'220-(Welcome to )?Cerberus FTP Server','Desktop','Cerberus','software','Unknown','WINDOWS',
+ftp,'CesarFTP','Desktop','CesarFTP','software','Unknown','WINDOWS',
+ftp,'220 ProFTPD (\d+\.\d+\.\d+)(([a-z])|(rc\d+))? Server \(DD-WRT\)','IoT','DD-WRT','SOHO_ROUTER','ProFTPD','embedded',
+ftp,'220 \w+?Dell (\w+ )?Laser Printer','IoT','DELL','Printer',match.group(1),'embedded',
+ftp,'220 Dell (\w+ )?Color Laser','IoT','DELL','Printer',match.group(1),'embedded',
+ftp,'220 Welcome to (DCS-\d+[A-Z+]?) FTP Server','IoT','DLINK','Camera',match.group(1),'embedded',
+ftp,'220 (DCS-\d+[A-Z+]?) FTP server ready','IoT','DLINK','Camera',match.group(1),'embedded',
+ftp,'220 DrayTek FTP version','IoT','DRAYTEK','WAP','Unknown','embedded',
+ftp,'220 Welcome to the OpenDreambox FTP service','IoT','DREAMBOX','TV_BOX','OpenDreambox','Dreambox OS',
+ftp,'220 Welcome to the PLi dreambox FTP server','IoT','DREAMBOX','TV_BOX','OpenPLi','Dreambox OS',
+ftp,'220 Willkomen auf Ihrer Dreambox','IoT','DREAMBOX','TV_BOX','DreamBox','Dreambox OS',
+ftp,'220  ADH FTP SERVER READY TYPE HELP FOR HELP','IoT','DEDICATED_MICROS','DVR','Unknown','RTOS',
+ftp,'220 FRITZ!Box','IoT','AVM','CABLE_MODEM','Unknown','FritzOS',
+ftp,'220 Fullrate FTP version \d+\.\d+ ready at','IoT','FULLRATE','DSL_MODEM','Unknown','embedded',
+ftp,'220 Gene6 FTP Server','Desktop','Gene6','Software','Unknown','WINDOWS',
+ftp,'220 Network-Camera FTP server \((.*)\) ready','IoT','Unknown','Camera','inetutils ','embedded',
+ftp,'220 DSL Router FTP Server','IoT','Unknown','DSL_MODEM','Unknown','embedded',
+ftp,'220 HP ARPA FTP SERVER','IoT','HP','Unknown','HP ARPA','embedded',
+ftp,'The HPRC FTP dropbox system is intended for Hewlett-Packa','IoT','HP','Unknown','HP HPRC','embedded',
+ftp,'220 JD FTP Server Ready','IoT','HP','Printer','Jet Direct','embedded',
+ftp,'220-QTCP at .*\r\n220 Connection will close if idle more than \d+ minutes','IoT','Unknown','IBM I-series','Unknown','IBM i',
+ftp,'220[- ]Microsoft FTP Service','Desktop','Microsoft','software','IIS','WINDOWS',
+ftp,'220 Intercon FTP server \(MikroTik (\d+\.\d+)\) ready','IoT','INTERCON','PRINT_SERVER','MikroTik','RouterOS',
+ftp,'220 ipTIME_FTPD (\d+\.\d+\.\d+)([a-z])? Server','IoT','IPTIME','Unknown','Unknown','embedded',
+ftp,'220 FTP Version \d+\.\d+ on (IQeye\d+)','IoT','IQEYE','Camera',match.group(1),'embedded',
+ftp,'220 KONICA MINOLTA FTP server ready','IoT','KONICA_MINOLTA','Printer','Unknown','embedded',
+ftp,'220 LaCie-2big(-NAS)? FTP Server','IoT','LACIE','NAS','2Big','embedded',
+ftp,'220 LaCie-5big(-NAS)?(-Pro)? FTP Server','IoT','LACIE','NAS','5Big','embedded',
+ftp,'220 LaCie-d2 FTP Server','IoT','LACIE','NAS','D2','embedded',
+ftp,'220 LaCie-CloudBox FTP Server','IoT','LACIE','NAS','CloudBox','embedded',
+ftp,'220 NetworkSpace2 FTP Server','IoT','LACIE','NAS','Network Space 2','embedded',
+ftp,'220 LaCie(-NAS)? FTP Server \[\d+\.\d+\.\d+\.\d+\]','IoT','LACIE','NAS','Unknown','embedded',
+ftp,'220 FTP Version (\d+\.\d+) on EPS2-100','IoT','LANTRONIX','PRINT_SERVER','EPS2-100','Evolution OS',
+ftp,'220( \w+)? Lexmark \w+ FTP Server','IoT','LEXMARK','Printer','^220 .+ Lexmark (.+) FTP Server','embedded',
+ftp,'220 Welcome to linksys','IoT','LINKSYS','ROUTER','Unknown','embedded',
+ftp,'ProFTPD (\d+\.\d+\.\d+)(rc\d+) Server','IoT','LINKSYS','ROUTER','LinksysWRT350N','embedded',
+ftp,'220\ Welcome\ to\ the\ HomeWorks\ Processor','IoT','LUTRON','Unknown','HomeWorks Processor','embedded',
+ftp,'220 IPCamera FTPServer\(www\.maygion\.com\)','IoT','MAYGION','Camera','Unknown','embedded',
+ftp,'220 MikroTik FTP server','IoT','MIKROTIK','NETWORK','Unknown','RouterOS',
+ftp,'220-National Instruments FTP','IoT','NATIONAL_INSTRUMENTS','Unknown','Unknown','embedded',
+ftp,'NETGEAR ReadyNAS','IoT','NETGEAR','NAS','Unknown','embedded',
+ftp,'220 Opto 22 FTP server ready','IoT','OPTO22','INDUSTRIAL_CONTROL','Unknown','embedded',
+ftp,'ProFTPD (\d+\.\d+\.\d+)([a-z])? Server Snap Appliance','IoT','OVERLAND_STORAGE','NAS','Snap Appliance','embedded',
+ftp,'220 NASFTPD Turbo station( 2\.x)?','IoT','QNAP','NAS','Turbo NAS','embedded',
+ftp,'220 RICOH (.+) FTP server \(\d+(?:\.\d+)*\) ready','IoT','RICOH','Printer',match.group(1),'embedded',
+ftp,'220 \d+ -> SXT.+ \(MikroTik \d+\.\d+(\.\d+)?\) ready','IoT','MIKROTIK','Unknown','Unknown','RouterOS',
+ftp,'220 \d+ -> \d+[A-Z]?((-5Hn(D)?)|(-5Hn-MMCX))? FTP server \(MikroTik \d+\.\d+(\.\d+)?\) ready','IoT','Unknown','Unknown','Unknown','RouterOS',
+ftp,'220 Welcome to Seagate Central Shared Storage FTP service','IoT','SEAGATE','NAS','Seagate Central','embedded',
+ftp,'220 Seagate-((DP[24])|(D[24])|(NAS)|(R4)) FTP Server \[','IoT','SEAGATE','NAS','Seagate-([-A-Za-z0-9_]+)','embedded',
+ftp,'220 Serv-U FTP[- ]Server v\d+.\d+[a-z]? (for WinSock )?ready\.','Desktop','Serv-U','Unknown','Unknown','WINDOWS',
+ftp,'220 SHARP ((MX)|(AR))-[0-9A-Z]+ Ver \d+(\.[0-9a-z]+)+ FTP server','IoT','SHARP','Printer','SHARP (.+) Ver','embedded',
+ftp,'220 Welcome to SONY Network Camera','IoT','SONY','Camera','Unknown','embedded',
+ftp,'220-Sony Network Camera','IoT','SONY','Camera','Network Camera ([-A-Z0-9_]+)','embedded',
+ftp,'220 Speedport( )?W','IoT','SPEEDPORT','SOHO_ROUTER','^220 Speedport (.+) FTP Server','embedded',
+ftp,'synology','IoT','SYNOLOGY','NAS','Unknown','DiskStation Manager',
+ftp,'220 .*DiskStation(-)?(\d+)? FTP server ready','IoT','SYNOLOGY','NAS','DiskStation','DiskStation Manager',
+ftp,'220 Disk Station FTP server at','IoT','SYNOLOGY','NAS','DiskStation','DiskStation Manager',
+ftp,'220 Cube Station FTP server','IoT','SYNOLOGY','NAS','CubeStation','DiskStation Manager',
+ftp,'Tenor Multipath Switch FTP Server','IoT','SONUS','SOHO_ROUTER','Tenor Multipath Switch','embedded',
+ftp,'220 Titan FTP Server','Desktop','Titan','Software','Unknown','WINDOWS',
+ftp,'220 uClinux FTP server \(GNU inetutils (\d+(\.\d+)*)\) ready','IoT','Unknown','Unknown','Unknown','UCLINUX',
+ftp,'220 DSL-EasyBox \d+ FTP Server v','IoT','VODAPHONE','DSL_MODEM','^220 DSL-(EasyBox \d+) FTP','embedded',
+ftp,'220 VxWorks FTP server \(VxWorks','IoT','Unknown','Unknown','VxWorks','RTOS',
+ftp,'220 Welcome to WD My Cloud','IoT','WESTERN_DIGITAL','NAS','MyCloud','embedded',
+ftp,'220 \""Welcome to MyBookLive','IoT','WESTERN_DIGITAL','NAS','MyBookLive','embedded',
+ftp,'220 Wind River FTP server','IoT','WIND_RIVER','SOHO_ROUTER','Unknown','embedded',
+ftp,'ws_ftp server','Desktop','Unknown','software','WS_FTP','WINDOWS',
+ftp,'220 FUJI XEROX Docu((Print)|(Centre))','IoT','XEROX','Printer','^220 FUJI XEROX ([- _a-zA-Z0-9]+)','embedded',
+ftp,'220 Xerox Phaser','IoT','XEROX','Printer','^220 Xerox ([- _a-zA-Z0-9]+)','embedded',
+ftp,'220 Xlight FTP','Desktop','Xlight','software','Xlight','WINDOWS',
+ftp,'220 OX253P FTP version 1.0 ready at','IoT','ZTE','INFRASTRUCTURE_ROUTER','OX253P','embedded',
+ftp,'220 P(-)?660[HDR].* FTP version 1\.0 ready at','IoT','ZYXEL','DSL_MODEM','^220 (.+) FTP version','embedded',
+modbus,'abb stotz kontakt','IoT','ABB_STOTZ_KONTAKT','INDUSTRIAL_CONTROL','Unknown','embedded',
+modbus,'actl','IoT','ACTL','INDUSTRIAL_CONTROL','Unknown','embedded',
+http,'allegro','IoT','ALLEGRO','software','RomPager','embedded',
+ssl,'American Megatrends','IoT','AMERICANMEGATRENDS','software','Unknown','embedded',
+ssl,'American Power Conversion','IoT','APC','Unknown','Unknown','embedded',
+http,'APC | Application Error','IoT','APC','Unknown','Unknown','embedded',
+http,'macOS Server','Desktop','APPLE','Unknown','Unknown','macOS',
+ssl,'Aruba Networks','IoT','ARUBA','WIFI','Unknown','embedded',
+http,'AVTECH Software,'IoT','AVTECH','ENVIRONMENT_MONITOR','Unknown','embedded',
+modbus,'avtech','IoT','AVTECH','scada','Unknown','embedded',
+http,'AXIS 2120 Network Camera','IoT','AXIS','CAMERA','2120 Network Camera','embedded',
+http,'AXIS 2100 Network Camera','IoT','AXIS','CAMERA','2100 Network Camera','embedded',
+http,'Live view / - AXIS 205 Network Camera','IoT','AXIS','CAMERA','205 Network Camera','embedded',
+http,'Brother','IoT','BROTHER','PRINTER','Unknown','embedded',
+http,'canon http server','IoT','CANON','PRINTER','Unknown','embedded',
+http,'cisco','IoT','CISCO','Unknown','Unknown','embedded',
+telnet,'cisco','IoT','CISCO','Unknown','Unknown','embedded',
+http,'CP-7945G','IoT','CISCO','PHONE','CP-7945G','embedded',
+http,'CP-7942G','IoT','CISCO','PHONE','CP-7942G','embedded',
+http,'CP-7960G','IoT','CISCO','PHONE','CP-7960G','embedded',
+http,'cisco_logo_header','IoT','CISCO','SWITCH','Unknown','embedded',
+ssl,'ASA Temporary Self Signed Certificate','IoT','CISCO','NETWORK','Unknown','embedded',
+ssl,'RV082','IoT','CISCO','SOHO_ROUTER','RV082 Dual WAN VPN Router','embedded',
+ssl,'ciscoasa','IoT','CISCO','FIREWALL','Adaptive Security Appliance (ASA)','embedded',
+http,'cisco-ios','IoT','CISCO','INFRASTRUCTURE_ROUTER','Unknown','IOS',
+ssl,'cisco','IoT','CISCO','Unknown','Unknown','embedded',
+modbus,'computec oy','IoT','COMPUTEC','SCADA_CONTROLLER','Unknown','embedded',
+ssl,'comtrol','IoT','COMTROL ','Unknown','Unknown','embedded',
+modbus,'crouzet','IoT','CROUZET ','Unknown','Unknown','embedded',
+modbus,'xn05','IoT','CROUZET ','Unknown','XN05 24VD','embedded',
+ssl,'OpenCMC Group','IoT','DELL ','SERVER_MANAGEMENT','Chassis Management Controller','embedded',
+ssl,'Remote Access Group','IoT','DELL ','SERVER_MANAGEMENT','Integrated Dell Remote Access Controller','embedded',
+http,'Digi One SP&nbsp;Configuration and Management','IoT','DIGI','SCADA_GATEWAY','One','embedded',
+http,'D-LINK SYSTEMS,'IoT','DLINK','SOHO_ROUTER','Unknown','embedded',
+http,'D-Link VoIP Router','IoT','DLINK','SOHO_ROUTER','VoIP Router','embedded',
+ssl,'CLARiiON','IoT','EMC','NAS','Unknown','embedded',
+modbus,'www.entes.com.tr','IoT','ENTES','Unknown','Unknown','embedded',
+http,'epson_linux','IoT','EPSON','Unknown','Unknown','embedded',
+http,'SEIKO EPSON CORPORATION','IoT','EPSON','Unknown','Unknown','embedded',
+modbus,'flexim','IoT','FLEXIM','Unknown','Unknown','embedded',
+http,'NETGEAR Web Smart Switch','IoT','AVM','CABLE_MODEM','FRITZ!Box','FritzOS',
+http,'goahead-webs','IoT','GOAHEAD','Unknown','GoAhead-Webs','embedded',
+http,'Helix Mobile Server','Desktop','Unknown','Unknown','Helix Mobile Server','WINDOWS',
+http,'hikvision-webs','IoT','HIKVISION','CAMERA','Hikvision-Webs','embedded',
+ssl,'Honeywell','IoT','HONEYWELL','FIRE_ALARM','Notifier','embedded',
+ssl,'Notifier','IoT','HONEYWELL','FIRE_ALARM','Notifier','embedded',
+http,'HP Networks Web Interface','IoT','HP','NETWORK','Unknown','embedded',
+http,'HPE OfficeConnect Switch','IoT','HP','SWITCH','OfficeConnect Switch','embedded',
+ssl,'HP-IPG','IoT','HP','Unknown','HP IPG','embedded',
+ssl,'Remote Access Group','IoT','DELL','IPMI','iDRAC','embedded',
+modbus,'integ','IoT','INTEG','CINEMA','JNIOR','embedded',
+modbus,'integ','IoT','INTEG','CINEMA','JNIOR','embedded',
+ssl,'HP Jetdirect','IoT','HP','PRINTER','Unknown','embedded',
+ssl,'HP Designjet','IoT','HP','PRINTER','Unknown','embedded',
+ssl,'iXsystems','IoT','IXSYSTEMS','NAS','Unknown','embedded',
+ssl,'konica minolta','IoT','KONICA_MINOLTA','Unknown','Unknown','embedded',
+ssl,'bizhub','IoT','KONICA_MINOLTA','PRINTER','Bizhub','embedded',
+modbus,'lab-el','IoT','LAB_EL','Unknown','Unknown','embedded',
+http,'LaCie&nbsp;&#124;&nbsp;Dashboard','IoT','LACIE','NAS','Storage Device','embedded',
+modbus,'lantronix','IoT','LANTRONIX','Unknown','Unknown','embedded',
+modbus,'xport','IoT','LANTRONIX','SCADA_GATEWAY','Unknown','embedded',
+http,'LenovoEMC','IoT','LENOVO','Unknown','Unknown','embedded',
+ssl,'Lexmark','IoT','LEXMARK','PRINTER','Unknown','embedded',
+ssl,'LifeSize Transit Server','IoT','LIFESIZE','Unknown','Transit Server','embedded',
+http,'mikrotik routeros','IoT','MIKROTIK','NETWORK','RouterOS','embedded',
+http,'RouterOS router configuration page','IoT','MIKROTIK','NETWORK','RouterOS','embedded',
+http,'NETGEAR Web Smart Switch','IoT','NETGEAR','SWITCH','Smart Switch','embedded',
+http,'Netgear Prosafe Plus Switch','IoT','NETGEAR','SWITCH','Prosafe Plus Switch','embedded',
+ssl,'Netgear VPN Firewall','IoT','NETGEAR','FIREWALL','Prosafe VPN Firewall','embedded',
+modbus,'OCM Pro CF','IoT','NIVUS','WATER_FLOW_CONTROLLER','OCM Pro CF','embedded',
+ssh,'ubuntu','Desktop','UBUNTU','software','UBUNTU','UBUNTU',
+ssl,'OSNEXUS','IoT','OS NEXUS','STORAGE','Quantator','embedded',
+modbus,'FP-MB-TCP','IoT','PANASONIC','PANASONIC','Unknown','embedded',
+modbus,'FP-WebServer','IoT','PANASONIC','PANASONIC','Unknown','embedded',
+modbus,'pokeys56e','IoT','POLABS','SCADA_GATEWAY','PoKeys56E','embedded',
+modbus,'polabs','IoT','POLABS','Unknown','Unknown','embedded',
+ssl,'Polycom,'IoT','POLYCOM','CAMERA','Unknown','embedded',
+http,'Polycom','IoT','POLYCOM','CAMERA','Unknown','embedded',
+ssl,'Raritan Device','IoT','RARITAN',Unknown','Unknown','embedded',
+http,'logo_rar_tag_white.gif','IoT','RARITAN',Unknown','Unknown','embedded',
+http,'Red Hat Satellite','Desktop','REDHAT',Unknown','Unknown','REDHAT',
+http,'Test Page for the Apache HTTP Server on Red Hat Enterprise Linux','Desktop','REDHAT',Unknown','Unknown','REDHAT',
+modbus,'rockwell automation','IoT','ROCKWELL','Unknown','Unknown','embedded',
+modbus,'allen-bradley','IoT','ROCKWELL','Unknown','Unknown','embedded',
+modbus,'room alert','IoT','AVTECH','ENVIRONMENT_MONITOR','Room Alert','embedded',
+http,'RoomWizard(TM)','IoT','ROOMWIZARD',SIGN','Unknown','embedded',
+http,'ip.buffer webserver','IoT','SCANNEX',SCADA_GATEWAY','ip.buffer','embedded',
+modbus,'se-elektronic','IoT','SE_ELECTRONIC','Unknown','Unknown','embedded',
+http,'Welcome to SeagateShare.com Directory &amp; Remote Access Service','IoT','SEAGATE','NAS','Home NAS','embedded',
+http,'Environmental Monitor','IoT','SENSATRONICS','ENVIRONMENT_MONITOR','Unknown','embedded',
+http,'IT Temperature Monitor','IoT','SENSATRONICS','ENVIRONMENT_MONITOR','Unknown','embedded',
+http,'Universal Temperature Monitor','IoT','SENSATRONICS','ENVIRONMENT_MONITOR','Unknown','embedded',
+ssl,'Sharp Corporation','IoT','SHARP',Unknown','Unknown','embedded',
+ssl,'MX-B401','IoT','SHARP',PRINTER','Unknown','embedded',
+modbus,'siemens','IoT','SIEMENS','Unknown','Unknown','embedded',
+modbus,'simatic','IoT','SIEMENS','Unknown','SIMATIC','embedded',
+modbus,'solare','IoT','SOLAR_LOG','SOLAR_PANEL','Unknown','embedded',
+http,'HDHomeRun Main Menu','IoT','SiliconDust','TV_TUNER','HDHomeRun','embedded',
+ssh,'ubuntu','Desktop','UBUNTU','operating system','UBUNTU','UBUNTU',
+ssh,'debian','Desktop','DEBIAN','operating system','DEBIAN','DEBIAN',
+ssh,'freebsd','Desktop','FREEBSD','operating system','FREEBSD','FREEBSD',
+ssh,'netbsd','Desktop','NETBSD','operating system','NETBSD','NETBSD',
+ssh,'raspbian','IoT','RASPBIAN','operating system','Raspberry Pi','embedded',
+ssh,'bitvise','Desktop','WINDOWS','operating system','WINDOWS','WINDOWS',
+ssh,'windows','Desktop','WINDOWS','operating system','WINDOWS','WINDOWS',
+ssh,'centos','Desktop','CENTOS','operating system','CENTOS','CENTOS',
+ssh,'rhel','Desktop','REDHAT','operating system','REDHAT','REDHAT',
+ssh,'Microsoft FTP Service','Desktop','WINDOWS','operating system','WINDOWS','WINDOWS',
+ssh,'Dropbear SSH','IoT','Dropbear','software','Dropbear SSH','embedded',
+ssh,'Dropbear SSH','IoT','Dropbear','software','Dropbear SSH','embedded',
+ssh,'ROSSSH','IoT','MIKROTIK','NETWORK','RouterOS SSH','RouterOS',
+ssh,'cisco','IoT','CISCO','INFRASTRUCTURE_ROUTER','RouterOS SSH','CISCO_IOS',
+ssh,'Huawei SSH','IoT','HUAWEI','Unknown','Unknown','embedded',
+ssh,'lancom','IoT','LANCOM','NETWORK','Lancom SSH','embedded',
+ssh,'DOPRA-1.5','IoT','HUAWEI','Unknown','DOPRA','DOPRA',
+ssh,'Zyxel','IoT','Zyxel','Unknown','Zyxel','embedded',
+ssh,'RomSShell','IoT','Allegro Software','Unknown','RomSShell','embedded',
+ssh,'mpSSH','IoT','HP','SERVER_MANAGEMENT','mpSSH','embedded',
+ssl,'Sun Microsystems','IoT','SUN_MICROSYSTEMS','Unknown','Unknown','embedded',
+ssl,'Super Micro Computer','IoT','SUPERMICROCOMPUTER','IPMI','Unknown','embedded',
+modbus,'synchronic','IoT','SYNCHRONIC','Unknown','Unknown','embedded',
+http,'Synology DiskStation','IoT','SYNOLOGY','NAS','DiskStation','embedded',
+http,'DiskStation2','IoT','SYNOLOGY','NAS','DiskStation','embedded',
+http,'DiskStation|Synology','IoT','SYNOLOGY','NAS','DiskStation','embedded',
+http,'RackStation|Synology','IoT','SYNOLOGY','NAS','RackStation','embedded',
+http,'Synology Web Station','IoT','SYNOLOGY','NAS','WebStation','embedded',
+ssl,'Synology Inc. CA','IoT','SYNOLOGY','NAS','Unknown','embedded',
+modbus,'telemecanique','IoT','TELEMECANIQUE','Unknown','Unknown','embedded',
+ssl,'Thecus Technology Corp.','IoT','THECUS','NAS','Unknown','embedded',
+http,'TiVo DVR','IoT','TIVO','DVR','DVR','embedded',
+http,'TL-WR1043ND','IoT','TPLINK','SOHO_ROUTER','TL-WR1043ND Wireless N Gigabit Router','embedded',
+http,'varnish','IoT','VARNISH','Unknown','HTTP Server','embedded',
+modbus,'veris','IoT','VERIS','Unknown','Unknown','embedded',
+modbus,'veris|e51c3','IoT','VERIS','POWER_MONITOR','E51C3','embedded',
+ssl,'Western Digital|Branded Products','IoT','Western_Digital','Unknown','Unknown','embedded',
+modbus,'win','Desktop','WINDOWS','operating system','WINDOWS','WINDOWS',
+ssl_fp,'6343022d4995a8d96f50a737e77fd5c0ab2efd842b5e05b1fd7109df426a38e5','IoT','HUAWEI','MODEM','Home Gateway HG658d','embedded',
+ssl_fp,'d86ac7ac292a9bf702b90c0a6396df047d961e549331d802db22079f7a4d8b8e','IoT','DAHUA','Unknown','Unknown','embedded',
+ssl_fp,'96421eda0168df9a44c9eadc7451cae578f3c42456bbef5c5b33e1791b88d20c','IoT','MOTOROLA','MODEM','Cable Modem','embedded',
+ssl_fp,'1b9a783965a0fa8e5cee8b8e3d3f499b8163fe3a44bbcec3a52bbc0ecc1151d1','IoT','TECHNICOLOR','MODEM','Modem','embedded',
+ssl_fp,'ec3ae70631c7c30378189c73eef80aaaea6ca1d07793cc878422a77a656086e4','IoT','Unknown','Unknown','Unknown','embedded',
+ssl_fp,'cb36482dc97fe9dfafb4cc75d8f6bf2571a7c6d8bcc0716e6072c79576261f8a','IoT','Unknown','Unknown','Unknown','embedded',
+ssl_fp,'464f4fcd90934c66b83509dffaa8993922520a7a14422853060a6a2c289d3ecb','IoT','Unknown','Unknown','Unknown','embedded',
+ssl_fp,'ef512d0ab19e9b91a5c519c634a4f2fcbbf65c45ef87e01aabd25939fe903594','IoT','T&W','MODEM','GPON Home Gateway','embedded',
+ssl_fp,'d86ac7ac292a9bf702b90c0a6396df047d961e549331d802db22079f7a4d8b8e','IoT','Unknown','Unknown','Unknown','embedded',
+ssl_fp,'816735d1fd53b8747aa3a61e277dd8fd5dd303475bc9730ead8ad67155518e33','IoT','HUAWEI','MODEM','Unknown','embedded',
+ssl_fp,'e4d09f84810efa9ad8541b7a820f094408ef760744ffe44d397f88d28b441995','IoT','UBIQUITI','NETWORK',Unknown','embedded',
+ssl_fp,'d6f2349d74e603c1713ea8ea6d998cbe0d0b972bd799521006c3f463ecd02abb','IoT','ZYXEL','MODEM','Unknown','embedded',
+ssl_fp,'167390050a67bb785bb01b0934bcc57b4865593ae98b2f09a002e496a69cebde','IoT','ZYXEL','MODEM','Unknown','embedded',
+ssl_fp,'182034cb65b46a7a8563262995120630392b1f5d626133d961503056c1c72c1a','IoT','DRAYTEK','SOHO_ROUTER','Vigor Router','embedded',
+ssl_fp,'cdf555315a8ba0139e721d5b17cbee6599c42b52e4b8eb52f9237825b1e74f64','IoT','DRAYTEK','SOHO_ROUTER','Vigor Router','embedded',
+ssl_fp,'f617e883351ed4e69f23d155205d627808b4270948acf3012865104e726a2b1d ','IoT','DRAYTEK','SOHO_ROUTER','Vigor Router','embedded',
+ssl_fp,'1f2f8b736aa3886fee322ad5ab96e8adcfb7cdfbcb61e4bfbab140fbdaedf666','IoT','HUAWEI','DSL_MODEM','Home Gateway','embedded',
+ssl_fp,'6cf53ed14fe53f7321940911dc93ff8dbe9d4b4116a6ed95b41fb60d834c8780','IoT','HUAWEI','MODEM','Home Gateway','embedded',
+ssl_fp,'6cf53ed14fe53f7321940911dc93ff8dbe9d4b4116a6ed95b41fb60d834c8780','IoT','TECHNICOLOR','MODEM','DPC3848 DOCSIS 3.0 Gateway','embedded',
+ssl_fp,'5da28495a5dfebf36ef25af9a6eb1a59faecdffbf7c6070c83cb91b7b3b2ced9','IoT','Unknown','DVR','Unknown','embedded',
+ssl_fp,'d5c0101d5ac007024e50477188b03d76f28112472edf56c5e19a76cf069008e7','IoT','MULTITECH','Unknown','Unknown','embedded',
+ssl_fp,'1ae9d62f5d127f9a361a1a04a75157e5a6d5cac36ed9d46e17c87ca641786d35','IoT','T&W','MODEM','GPON Home Gateway','embedded',
+ssl_fp,'ef1fd069e6f4fa81e139cb39d0bb049cca48e49808a04193e4674667089d1343','IoT','QNAP','NAS','Turbo NAS','embedded',
+ssl_fp,'d2a928e4d35aabd7f066cfcd93dd54c675ef3e0de8162708fc7adb6a7f161d88','IoT','QNAP','NAS','Turbo NAS','embedded',
+ssl_fp,'4f07b356d72f17774a8ae6ca9750a668e6f1ccf0d02d3fcb773eabff52daa349','IoT','QNAP','NAS','TS Series NAS','embedded',
+ssl_fp,'43f84ee7516b0f4e06e1186f498f4840ab832efd9ca6165b0b3c195756c85532','IoT','SERCOMM','MODEM','Unknown','embedded',
+ssl_fp,'298196fe226e52eae246c5a4c5943f2db3b6d931b1a16b2104d90c1dae3f0dad','IoT','JUNGO','MODEM','Unknown','embedded',
+ssl_fp,'339fc27ee4d32665424ce84d7f97b9ddc3059d5af9d1b6a47d041ac79f8af968','IoT','JUNGO','MODEM','Unknown','embedded',
+ssl_fp,'f3f519150cab4a01e9948435070e02baacc9d41b478c23ac1a5a884f1d7d06da','IoT','JUNGO','MODEM','Unknown','embedded',
+ssl_fp,'1b4da61347a18ff56290e547882c18c45e9da80d16f70b6af0b09cc4235b392a','IoT','JUNGO','MODEM','Unknown','embedded',
+ssl_fp,'059d6bdee15a6898c0e6f6d225327d6731796c189b9afdca445bf1122e1adc1b','IoT','JUNGO','MODEM','Unknown','embedded',
+ssl_fp,'be589d2ddff654b51de7024bc619f9bde5f4275300ec91d97b030a576b121c84','IoT','JUNGO','MODEM','Unknown','embedded',
+ssl_fp,'13657bfa2c9cdba7591f97675f203a8bad4ecbe3f70fbaccad43646dec3b600d','IoT','HUAWEI','MODEM','Home Gateway','embedded',
+ssl_fp,'3910dbb918c41fe7d5658214f034cb1d96fc35ba758c7bd7da97693326aeb308','IoT','INTELBRAS','MODEM','WOM 5000','embedded',
+ssl_fp,'0f1b486c96d6f1db6e5004a19482071ece5b8669069c8dd7f2239d8f732b6b72','IoT','Unknown','NAS','Axentraserver','embedded',
+ssl_fp,'738523c7102fdd44124bb4a36075adfcb35dceb1f947ea56ea2366192d9e6482','IoT','TELRAD','WIRELESS_MODEM','Unknown','embedded',
+ssl_fp,'577461369dbdebc7daea9701ecdd03297bc74d4ce3eece23ee3feb63613ab031','IoT','DELL','SERVER_MANAGEMENT','Dell Integrated Remote Access','embedded',
+ssl_fp,'91c3d9de766dc7803dc6d90e5cc4e238ac2016fbfe7da105bcf2198ba2cee36b','IoT','ENTROLINK','MODEM','Unknown','embedded',
+ssl_fp,'016973380c0f1df00bd9593ed8d5efa3706cd6df7993f6141272b80522acdd23','IoT','ENTROLINK','MODEM','Unknown','embedded',
+ssl_fp,'04f527c0f12939feef1e5fa567d45115d4f856b9b5bd78bdc6698ef0b11dfa54','IoT','SOMFY','ALARM_SYSTEM','Unknown','embedded',
+ssl_fp,'59c2ba7edab4fbda1ad76801679f1d9f4d13aef4a5cc2499690436bab3f49776','IoT','TRENDCHIP','MODEM','Unknown','embedded',
+ssl_fp,'78fd13c7325a78b9600b589eef1cbca79d91fb93a50aa1e6339535aeb7c1c300','IoT','LINKSYS','SOHO_ROUTER','Unknown','embedded',
+ssl_fp,'d8fdf1ec100c1d5dd137ab579dafba0b58ccba5282652df5701877515b730041','IoT','SUPERMICRO','IPMI','Intelligent Management','embedded',
+ssl_fp,'5d1fc439c0625fa9333561907a6de4f53b058031224654407ff28a79fb8e75b6','IoT','Bouygues Telecom','MODEM','Bbox','embedded',
+ssl_fp,'50e98b5062bc67eee5e774c9d206495ca58ebbf8a879e092e7b4869dfa97721b','IoT','FIBERCOM','MODEM','Unknown','embedded',
+ssl_fp,'7299baad93d5da7ce2fb8c430fa88715b0799a302dbb84da1a803c5e0db1beb1','IoT','EDGEWATER','NETWORK','Unknown','embedded',
+ssl_fp,'ef1798cfbf4e41e99381a31759173bdc412947b6dc9da4f69d0ccc9b1a16a9e9','IoT','REALTEK','NETWORK','Unknown','embedded',
+ssl_fp,'d76133e1986c5aca8b45a2b99fd53c0045ccbc476e5971ea287644825a104688','IoT','ECONET','MODEM','Unknown','embedded',
+ssl_fp,'f42e36dae397d500ed6471fadfc0dab9571665ea53d058459c71a9154651a638','IoT','PANABIT','NETWORK','Unknown','embedded',
+ssl_fp,'78a403d79d7f03fbf57aa6881787d1ebbc2121eb47fb56ae1a0c7cbedbf6b3a9','IoT','ZTE','MODEM','ZXV10','embedded',
+ssl_fp,'47fa89956f2aa349e8814b21a7bbd64c9b597f0f192bfe073559945a7a846534','IoT','ARUBA','NETWORK','Unknown','embedded',
+ssl_fp,'5b9ab766e1b5dc504cfde9345294b99196b0b729e060e50162237c2daf0080bc','IoT','Unknown','CAMERA','Unknown','embedded',
+ssl_fp,'94d4b664af7846fe3f715691f475fbcbb11c5a2b3762ee43b25edbdb86fc3c7f','IoT','NETGEAR','FIREWALL','ProSafe VPN Firewall','embedded',
+ssl_fp,'96197cd06e4fc5ea57764cb79e85f34a5655f2e3426f70d06bebaa9f1093f407','IoT','HUAWEI','WIRELESS_MODEM','Mobile Broadband','embedded',
+ssl_fp,'4403880b9cba3f740154a274418dc3435a5c1b57ca728b3387da568bacc803f1','IoT','ADTRAN','NETWORK','NetVanta','embedded',
+ssl_fp,'d828f96059933ae11b895163742b35af7cda6d267f081b18e1e4157678a443dc','IoT','SANGFOR','NETWORK','Unknown','embedded',
+ssl_fp,'2c773cea359829eec0cf172e1ac8a9219c94eddd5241ca7a4a9b07e0cabb010f','IoT','NETKLASS','NETWORK','Unknown','embedded',
+pop3,'cisco','IoT','Cisco','Unknown','Unknown','embedded',
+pop3,'ubuntu','Desktop','Ubuntu','Unknown','Unknown','UBUNTU',
+pop3,'debian',Desktop','Debian','Unknown','Unknown','DEBIAN',
+pop3,'FreeBSD','Desktop','FreeBSD','Unknown','Unknown','FREEBSD',
+pop3,'Microsoft','Desktop','Windows','Unknown','Unknown','WINDOWS',
+pop3,'Windows','Desktop','Windows','Unknown','Unknown','WINDOWS',
+pop3,'WinWebMail','Desktop','Windows','Unknown','Unknown','WINDOWS',
+imap,'cisco','IoT','Cisco','Unknown','Unknown','embedded',
+imap,'debian',Desktop','Debian','Unknown','Unknown','DEBIAN',
+imap,'FreeBSD','Desktop','FreeBSD','Unknown','Unknown','FREEBSD',
+imap,'Microsoft','Desktop','Windows','Unknown','Unknown','WINDOWS',
+imap,'Windows','Desktop','Windows','Unknown','Unknown','WINDOWS',
+imap,'WinWebMail','Desktop','Windows','Unknown','Unknown','WINDOWS',
+ssl,'dray','IoT','Draytek','Router','Unknown','embedded',
+ssl,'cisco','IoT','Cisco','Router','Unknown','embedded',
+ssl,'zte','IoT','ZTE','Router','Unknown','embedded',
+ssl,'d-link','IoT','D-Link','Router','Unknown','embedded',
+ssl,'dahua','IoT','Dahua','IP Camera','Unknown','embedded',
+ssl,'ubiquiti','IoT','Ubiquiti','Router','Unknown','embedded',
+ssl,'zyxel','IoT','ZyXEL','Router','Unknown','embedded',
+ssl,'mikrotik','IoT','Mikrotik','Router','Unknown','embedded',
+ssl,'qnap','IoT','QNAP','NAS','Unknown','embedded',
+ssl,'hewlett','IoT','HP','Unknown','Unknown','embedded',
+ssl,'HP','IoT','HP','Unknown','Unknown','embedded',
+ssl,'synology','IoT','Synology','NAS','Unknown','embedded',
+ssl,'sagemcom','IoT','Sagemcom','Router','Unknown','embedded',
+ssl,'zenointel','IoT','Zenointel','IP Camera','Unknown','embedded',
+ssl,'netgear','IoT','Netgear','Router','Unknown','embedded',
+ssl,'samsung','IoT','Samsung','Unknown','Unknown','embedded',
+ssl,'greenwave','IoT','GreenWave','Unknown','Unknown','embedded',
+ssl,'western digital','IoT','Western Digital','NAS','Unknown','embedded',
+ssl,'mediatek','IoT','Mediatek','Unknown','Unknown','embedded',
+ssl,'huawei','IoT','Huawei','Unknown','Unknown','embedded',
+ssl,'LenovoEMC','IoT','LenovoEMC','NAS','Unknown','embedded',
+ssl,'Multitech','IoT','Multitech','Network','Unknown','embedded',
+ssl,'TPLINK','IoT','TP-LINK','Router','Unknown','embedded',
+ssl,'trendchip','IoT','Trendchip','Network','Unknown','embedded',
+ssl,'Avigilon','IoT','Avigilon','IP Camera','Unknown','embedded',
+ssl,'Thecus','IoT','Thecus','NAS','Unknown','embedded',
+ssl,'Innopia','IoT','Innopia','Smart Home','Unknown','embedded',
+ssl,'Sierra','IoT','Sierra Wireless','Network','Unknown','embedded',
+ssl,'bintec','IoT','Bintec Elmeg','Network','Unknown','embedded',
+ssl,'Comelit','IoT','Comelit','IP Camera','Unknown','embedded',
+ssl,'carel','IoT','Carel','HVAC','Unknown','embedded',
+ssl,'Dasan','IoT','Dasan','Network','Unknown','embedded',
+ssl,'Ralink','IoT','Ralink','Network','Unknown','embedded',
+ssl,'hikvision','IoT','Hikvision','IP Camera','Unknown','embedded',
+ssl,'Araknis','IoT','Araknis','Network','Unknown','embedded',
+ssl,'Xirrus','IoT','Xirrus','Network','Unknown','embedded',
+ssl,'Advantech','IoT','Advantech','ICS','Unknown','embedded',
+ssl,'WILIBOX','IoT','WILIBOX','Network','Unknown','embedded',
+ssl,'Digifort','IoT','Digifort','IP Camera','Unknown','embedded',
+ssl,'Intelbras','IoT','Intelbras','IP Camera','Unknown','embedded',
+ssl,'dinstar','IoT','dinstar','Network','Unknown','embedded',
+ssl,'TilginAB','IoT','TilginAB','Network','Unknown','embedded',
+ssl,'Nokia-DHBU','IoT','Nokia-DHBU','Network','Unknown','embedded',
+ssl,'Inim','IoT','Inim','Smart Home','Unknown','embedded',
+ssl,'Edimax','IoT','Edimax','Network','Unknown','embedded',
+ssl,'Linksys','IoT','Linksys','Network','Unknown','embedded',
+ssl,'DVR','IoT','Unknown','DVR','Unknown','embedded',
+ssl,'Asustor','IoT','Asustor','NAS','Unknown','embedded',
+ssl,'Radvision','IoT','Radvision','VoIP','Unknown','embedded',
+ssl,'Pelco','IoT','Pelco','IP Camera','Unknown','embedded',
+ssl,'zwave','IoT','zwave','Smart Home','Unknown','embedded',
+ssl,'ASUSWRT-Merlin','IoT',"'ASUSWRT-Merlin' ",'Network','Unknown','embedded',
+ssl,'VIMAR','IoT','VIMAR','Smart Home','Unknown','embedded',
+ssl,'InfiNet','IoT','InfiNet','Network','Unknown','embedded',
+ssl,'Archer','IoT','Archer','Router','Unknown','embedded',
+ssl,'SmartWorx','IoT','SmartWorx','ICS','Unknown','embedded',
+ssl,'MitraStar','IoT','MitraStar','Network','Unknown','embedded',
+ssl,'CIG','IoT','CIG Shanghai','Network','Unknown','embedded',
+ssl,'Broadcom','IoT','Broadcom','Network','Unknown','embedded',
+ftp,'mikrotik','IoT','MikroTik','Router','Unknown','embedded',
+ftp,'NETGEAR ReadyNAS','IoT','Netgear','NAS','Unknown','embedded',
+ftp,'PMG1006-B20B','IoT','ZyXEL','Network','PMG1006-B20B','embedded',
+ftp,'HG520c','IoT','Huawei','Router','EchoLife-HG520c','embedded',
+ftp,'HG530','IoT','Huawei','Router','EchoLife-HG530','embedded',
+ftp,'MT880','IoT','Huawei','Router','MT880','embedded',
+ftp,'MT882a','IoT','Huawei','Router','MT882a','embedded',
+ftp,'RS3614','IoT','Synology','NAS','RS3614','embedded',
+ftp,'Diskstation','IoT','Synology','NAS','Unknown','embedded',
+ftp,'GT-AC5300','IoT','ASUS','Router','GT-AC5300','embedded',
+ftp,'SL-N55U','IoT','ASUS','Router','SL-N55U','embedded',
+ftp,'MX-2615N','IoT','Sharp','Printer','MX-2615N','embedded',
+ftp,'NVR116/VD022','IoT','Lilin','IP Camera','NVR116/VD022','embedded',
+ftp,'ZTE','IoT','ZTE','Network','Unknown','embedded',
+ftp,'P660RT1v3s','IoT','ZyXEL','Router','P660RT1v3s','embedded',
+ftp,'660HN','IoT','ZyXEL','Gateway','660HN','embedded',
+ftp,'AMG1001','IoT','ZyXEL','Gateway','AMG1001','embedded',
+ftp,'FRITZ!Box','IoT','AVM','Router','FritzOS','embedded',
+ftp,'NASFTPD','IoT','QNAP','NAS','Unknown','embedded',
+ftp,'TP-LINK','IoT','TP-LINK','NetWork','Unknown','embedded',
+ftp,'D-Link','IoT','D-Link','Network','Unknown','embedded',
+ftp,'lilin','IoT','Lilin','IP Camera','Unknown','embedded',
+ftp,'NAS','IoT','Unknown','NAS','Unknown','embedded',
+ftp,'Microsoft','Desktop','Windows','Unknown','Unknown','WINDOWS',
+ftp,'Xlight','Desktop','Windows','Unknown','Unknown','WINDOWS',
+http,'Avtech','IoT','Avtech','IP Camera','Unknown','embedded',
+http,'Vivo','IoT','Vivotek','IP Camera','Unknown','embedded',
+http,'RouterOS','IoT','MikroTik','Router','Unknown','embedded',
+http,'mikrotik','IoT','MikroTik','Router','Unknown','embedded',
+http,'Intelbras','IoT','Intelbras','GPON Model','ONT142NG','embedded',
+http,'Intelbras','IoT','Intelbras','IP Camera','Unknown','embedded',
+http,'(ZXHN H108[LN])','IoT','ZTE','Router',match.group(1),'embedded',
+http,'(lighttpd.*myhome)','IoT','Tilgin','Gateway','Unknown','embedded',
+http,'(lighttpd.*Wi-Fi Disk)','IoT','Unknown','NAS','Unknown','embedded',
+http,'Realtek','IoT','Realtek','Router','Unknown','embedded',
+http,'DSL-2875AL','IoT','D-LINK','Router','DSL-2875AL','embedded',
+http,'Vigor 2960','IoT','Draytek','Router','Vigor 2960','embedded',
+http,'Vigor 3900','IoT','Draytek','Router','Vigor 3900','embedded',
+http,'Vigor','IoT','Draytek','Router','Vigor','embedded',
+http,'DNVRS','IoT','Hikvision','IP Camera','Unknown','embedded',
+http,'Network Video Recorder','IoT','NUUO','IP Camera','Unknown','embedded',
+http,'DVR Components Download','IoT','Aposonic','IP Camera','Unknown','embedded',
+http,'Basic realm="DVR"','IoT','Unknown','DVR','Unknown','Unknown'
+http,'DDR2201v1','IoT','Cisco','Router','DDR2201v1','embedded',
+http,'Virata-EmWeb','IoT','Unknown','Router','Unknown','embedded',
+http,'NETSurveillance','IoT','Unknown','IP Camera','Unknown','embedded',
+http,'Boa/','IoT','Foscam','IP Camera','Unknown','embedded',
+http,'MW305R','IoT','Mercusys','Router','MW305R','embedded',
+http,'Microsoft-IIS','Desktop','Windows','Unknown','Unknown','WINDOWS',
+http,'Microsoft-','Desktop','Windows','Unknown','Unknown','WINDOWS',
+http,'Microsoft','Desktop','Windows','Unknown','Unknown','WINDOWS',
+http,'Windows','Desktop','Windows','Unknown','Unknown','WINDOWS',
+http,'Windows Server','Desktop','Windows','Unknown','Unknown','WINDOWS',
+http,'WIN-T','Desktop','Windows','Unknown','Unknown','WINDOWS',
+http,'Win32','Desktop','Windows','Unknown','Unknown','WINDOWS',
+http,'Win64','Desktop','Windows','Unknown','Unknown','WINDOWS',
+http,'Ubuntu','Desktop','Ubuntu','Unknown','Unknown','UBUNTU',
+http,'CentOS','Desktop','CentOS','Unknown','Unknown','CENTOS',
+http,'Debian','Desktop','Debian','Unknown','Unknown','DEBIAN',
+http,'Fedora','Desktop','Fedora','Unknown','Unknown','FEDORA',
+http,'FreeBSD','Desktop','FreeBSD','Unknown','Unknown','FREEBSD',
+http,'Debian','Desktop','Debian','Unknown','Unknown','DEBIAN',
+ssh,'Cisco','IoT','Cisco','Unknown','Unknown','embedded',
+ssh,'ubuntu','Desktop','Ubuntu','Unknown','Unknown','UBUNTU',
+ssh,'Debian','Desktop','Debian','Unknown','Unknown','DEBIAN',
+ssh,'FreeBSD','Desktop','FreeBSD','Unknown','Unknown','FREEBSD',
+telnet,'HT701','IoT','Grandstream','VoIP','HT701','embedded',
+telnet,'(ZNID-GPON-\d{4})','IoT','Zhone','Router',match.group(1),'embedded',
+telnet,('ETHX-\d{4})','IoT','Zhone','Router',match.group(1),'embedded',
+telnet,'ZNID-CU-2426','IoT','Zhone','Router','ZNID-CU-2426','embedded',
+telnet,'DD-WRT','IoT','Unknown','Router','Unknown','embedded',
+telnet,'3505VW','IoT','Askey','Router','3505VW','embedded',
+telnet,'ZXHN H118N','IoT','ZTE','Router','ZXHN H118N','embedded',
+telnet,'RT-G32','IoT','ASUS','Router','RT-G32.C1','embedded',
+http,'RT-G32','IoT','ASUS','Router','RT-G32.C1','embedded',
+http,'R860','IoT','TP-Link','Router','TL-R860','embedded',
+http,'Basic realm="(DI-\d{3}\w{2})"','IoT','D-Link','VPN Router',match.group(1),'embedded',
+telnet,'RT-206v1TT','IoT','Airties','Router','RT-206v1TT','embedded',
+telnet,'PMG1006-B20B','IoT','ZyXEL','Router','PMG1006-B20B','embedded',
+telnet,'HT-TM05','IoT','HooToo','Router','HT-TM05','embedded',
+telnet,'ZEM800','IoT','ZEM800','Time Attendance','ZEM800','embedded',
+telnet,'GW240','IoT','iGate','Router','GW240','embedded',
+telnet,'www.new-sol.com','IoT','New-Sol','IP Camera','Ns-Bicast500','embedded',
+telnet,'PA521i','IoT','IOVST','NAS','PA521i','embedded',
+telnet,'G3110-HSPA','IoT','Moxa','ICS','G3110-HSPA','embedded',
+telnet,'GR2412GA','IoT','','Router','GR-2412GA','embedded',
+telnet,'KWS-1043N','IoT','clipcomm','Router','KWS-1043N','embedded',
+telnet,'F450A','IoT','ZTE','Router','F450A','embedded',
+http,'F450A','IoT','ZTE','Router','F450A','embedded',
+telnet,'V2801ZE','IoT','ZTE','Router','V2801ZE','embedded',
+telnet,'cnPilot-R200P','IoT','Cambium','Router','cnPilot-R200P','embedded',
+telnet,'P-2612HNU-F1F','IoT','ZyXEL','Router','P-2612HNU-F1F','embedded',
+telnet,'ISC2500-S','IoT','Uniview','DVR','ISC2500-S','embedded',
+telnet,'E1000','IoT','InnGate','Router','E1000','embedded',
+telnet,'E2000','IoT','InnGate','Router','E2000','embedded',
+telnet,'2E655D','IoT','D-Link','Router','2E655D','embedded',
+telnet,'ANS4003WV','IoT','EOC','VoIP','ANS4003WV','embedded',
+telnet,'WFS-CSR01','IoT','I-O DATA','Router','WFS-CSR01','embedded',
+telnet,'ViewStation','IoT','Polycom','IP Camera','ViewStation','embedded',
+telnet,'SecGate3600','IoT','ZyXEL','Firewall','SecGate3600','embedded',
+telnet,'RG-WALL','IoT','Ruijie','Firewall','RG-WALL','embedded',
+telnet,'ZyWALL','IoT','ZyXEL','Firewall','ZyWALL','embedded',
+telnet,'C i S c o','IoT','Cisco','Router','Unknown','embedded',
+telnet,'GPON ONT','IoT','VNPT','Router','Unknown','embedded',
+telnet,'ZyXEL','IoT','ZyXEL','Unknown','Unknown','embedded',
+telnet,'ZTE','IoT','ZTE','Router','Unknown','embedded',
+telnet,'Huawei','IoT','Huawei','Unknown','Unknown','embedded',
+telnet,'Eltex','IoT','Eltex','Unknown','Unknown','embedded',
+telnet,'dvrdvs','IoT','Hikvision','Unknown','Unknown','embedded',
+telnet,'avtech','IoT','Avtech','Unknown','Unknown','embedded',
+telnet,'DVR','IoT','Unknown','DVR','Unknown','embedded',
+telnet,'Draytek','IoT','Draytek','Router','Unknown','embedded',
+telnet,'Microsoft','Desktop','Windows','Unknown','Unknown','Windows',
+telnet,'Win32','Desktop','Windows','Unknown','Unknown','WINDOWS',
+telnet,'Win64','Desktop','Windows','Unknown','Unknown','WINDOWS',
+telnet,'Ubuntu','Desktop','Ubuntu','Unknown','Unknown','UBUNTU',
+telnet,'CentOS','Desktop','CentOS','Unknown','Unknown','CENTOS',
+telnet,'Debian','Desktop','Debian','Unknown','Unknown','DEBIAN',
+telnet,'Fedora','Desktop','Fedora','Unknown','Unknown','FEDORA',
+telnet,'FreeBSD','Desktop','FreeBSD','Unknown','Unknown','FREEBSD',
+telnet,'OpenWrt','IoT','Unknown','Router','Unknown','embedded',
+http,'HuaweiHomeGateway','IoT','Huawei','Gateway','Unknown','embedded',
+http,'Sagemcom','IoT','Sagemcom','Unknown','Unknown','embedded',
+http,'Dimark','IoT','Dimark','Unknown','Unknown','embedded',
+http,'Cisco','IoT','Cisco','Unknown','Unknown','embedded',
+http,'SERCOMM','IoT','SERCOMM','Unknown','Unknown','embedded',
+telnet,'ad1018 login','IoT','SERCOMM','Unknown','ad1018','embedded',
+http,'EVG1500','IoT','Netgear','Unknown','EVG1500','embedded',
+http,'H150N','IoT','Dasan','Gateway','H150N','embedded',
+http,'panasonic','IoT','Panasonic','Unknown','Unknown','embedded',
+http,'Westell Secure','IoT','Westell Secure','Unknown','Unknown','embedded',
+http,'RUIJIE','IoT','RUIJIE','Unknown','Unknown','embedded',
+http,'tr069 http server','IoT','Unknown','Unknown','Unknown','Unknown',
+cwmp,'HuaweiHomeGateway','IoT','Huawei','Gateway','Unknown','embedded',
+cwmp,'Sagemcom','IoT','Sagemcom','Unknown','Unknown','embedded',
+http,'IPCamera','IoT','Unknown','IP Camera','Unknown','Unknown',
+cwmp,'Dimark','IoT','Dimark','Unknown','Unknown','embedded',
+cwmp,'Cisco','IoT','Cisco','Unknown','Unknown','embedded',
+cwmp,'SERCOMM','IoT','SERCOMM','Unknown','Unknown','embedded',
+cwmp,'EVG1500','IoT','Netgear','Unknown','EVG1500','embedded',
+cwmp,'H150N','IoT','Dasan','Gateway','H150N','embedded',
+cwmp,'panasonic','IoT','Panasonic','Unknown','Unknown','embedded',
+cwmp,'Westell Secure','IoT','Westell Secure','Unknown','Unknown','embedded',
+cwmp,'RUIJIE','IoT','RUIJIE','Unknown','Unknown','embedded',
+cwmp,'tr069 http server','IoT','Unknown','Unknown','Unknown','Unknown',
